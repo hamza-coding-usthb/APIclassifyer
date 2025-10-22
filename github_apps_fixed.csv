@@ -1,0 +1,1103 @@
+name,description,category,url,scraped_at
+CodeRabbit,Supercharge your entire team with AI-driven contextual feedback,ai-assisted,https://github.com/marketplace/coderabbitai,2025-10-22T05:40:03.603598
+Builder.io Integration,Connect AI-Powered Visual Editing to any Github repo,ai-assisted,https://github.com/marketplace/builder-io-integration,2025-10-22T05:40:03.773243
+Gemini Code Assist,Bring the power of Gemini to the pull request process,ai-assisted,https://github.com/marketplace/gemini-code-assist,2025-10-22T05:40:03.901819
+PerplexityAI,Perplexity answers questions as you code by searching the web,ai-assisted,https://github.com/marketplace/perplexityai,2025-10-22T05:40:04.032462
+Docker for GitHub Copilot,"Learn about containerization, generate Docker assets and analyze project vulnerabilities in GitHub Copilot",ai-assisted,https://github.com/marketplace/docker-for-github-copilot,2025-10-22T05:40:04.208277
+Models (GitHub),Copilot Extension to connect and chat with GitHub Models,ai-assisted,https://github.com/marketplace/models-github,2025-10-22T05:40:04.397726
+Stack Overflow,Get answers to your most complex coding questions right where you’re already working,ai-assisted,https://github.com/marketplace/stack-overflow-extension-for-github-copilot,2025-10-22T05:40:04.584155
+Qodo,AI Code Review for Enterprise. Qodo assist developers and engineering teams accelerate and improve code reviews,ai-assisted,https://github.com/marketplace/qodo-merge-pro,2025-10-22T05:40:04.736190
+Mermaid Chart,Provides advanced and powerful diagramming and visualization to GitHub Copilot Chat,ai-assisted,https://github.com/marketplace/mermaid-chart,2025-10-22T05:40:04.885840
+ChartDB,Database diagrams editor with AI that allows you to visualize and design your DB with a single query,ai-assisted,https://github.com/marketplace/chartdb,2025-10-22T05:40:05.064777
+Engine Labs,Turn issues into AI generated PRs,ai-assisted,https://github.com/marketplace/engine-labs,2025-10-22T05:40:05.232556
+Bito's AI Code Review Agent,"Contextual feedback, summaries, and 1-click suggestions in every PR",ai-assisted,https://github.com/marketplace/bito-s-ai-code-review-agent,2025-10-22T05:40:05.400214
+Microsoft 365 Agents Toolkit,Chats with GitHub Copilot extension for Microsoft 365 Agents Toolkit to build applications and agents for Microsoft 365,ai-assisted,https://github.com/marketplace/teamsapp,2025-10-22T05:40:05.567708
+What The Diff,Your AI-powered code review assistant,ai-assisted,https://github.com/marketplace/what-the-diff,2025-10-22T05:40:05.745184
+GitBook for GitHub Copilot,"Leverage your GitBook documentation to answer questions, providing instant responses in your workflow",ai-assisted,https://github.com/marketplace/gitbook-for-github-copilot,2025-10-22T05:40:05.877423
+Sweep AI,An AI junior dev. Transform bug reports & feature requests into pull requests seamlessly by providing a description,ai-assisted,https://github.com/marketplace/sweep-ai,2025-10-22T05:40:06.053756
+Fine AI,AI-powered Pull Requests Companion,ai-assisted,https://github.com/marketplace/fine-ai,2025-10-22T05:40:06.232161
+ChatGPTBot,ChatGPT Github App,ai-assisted,https://github.com/marketplace/chatgptbot,2025-10-22T05:40:06.413559
+ReadMe API,"Ask questions about the ReadMe API and get help with code, directly in VS code",ai-assisted,https://github.com/marketplace/readme-api,2025-10-22T05:40:06.589338
+Issue-Label Bot,Automatically label GitHub Issues with machine learning,ai-assisted,https://github.com/marketplace/issue-label-bot,2025-10-22T05:40:06.759859
+Agentic Search Ai,This extension leverages the power of agentic systems to enhance your coding experience. Agentic systems are intelligent ent,ai-assisted,https://github.com/marketplace/agentic-search-ai,2025-10-22T05:40:08.394465
+Product Science,Get help with performance optimization techniques to make your code faster,ai-assisted,https://github.com/marketplace/productscience-app,2025-10-22T05:40:08.572759
+Metabob-app,AI-powered code review and analysis tool for Python,ai-assisted,https://github.com/marketplace/metabob-app,2025-10-22T05:40:08.756158
+UnfoldAI,"Use AI-powered Error Diagnosis, Code Edits, Explanations, Bug/Error Solutions and Chat in Visual Studio Code",ai-assisted,https://github.com/marketplace/unfoldai,2025-10-22T05:40:08.857235
+Amazon Q Developer,"Your AI assistant for feature development, code reviews, and Java transformations",ai-assisted,https://github.com/marketplace/amazon-q-developer,2025-10-22T05:40:08.935122
+Sentry for GitHub Copilot,The Sentry Copilot Extension allows developers to fix broken code from the GitHub UI,ai-assisted,https://github.com/marketplace/sentry-github-copilot-extension,2025-10-22T05:40:09.110329
+CodeAnt AI,"AI-Powered Code Reviews, Quality, and Security — All in One Platform",ai-assisted,https://github.com/marketplace/codeant-ai,2025-10-22T05:40:09.291504
+"Exalate AI-Assisted Two-Way Issue Sync [Jira, ServiceNow, Azure DevOps, Zendesk, Salesforce & More]",Don't be confined by only no-code integration apps. Set up an integration with the help of scripts across Github &other tools,ai-assisted,https://github.com/marketplace/exalate-issue-sync,2025-10-22T05:40:09.478921
+Atlassian Rovo,Atlassian Rovo for GitHub Copilot brings your company’s knowledge to your code,ai-assisted,https://github.com/marketplace/atlassian,2025-10-22T05:40:09.664565
+Keypup,Scale a High Performing Engineering Team with Development Intelligence,ai-assisted,https://github.com/marketplace/keypup-assistant,2025-10-22T05:40:09.835615
+DataStax,Chat with your data! Write queries and code with natural language,ai-assisted,https://github.com/marketplace/datastax-astra-db-copilot-plugin,2025-10-22T05:40:10.002390
+GitGab Bot,Connect your Github repos to ChatGPT,ai-assisted,https://github.com/marketplace/gitgab-bot,2025-10-22T05:40:10.169204
+Grit App,Software maintenance on autopilot,ai-assisted,https://github.com/marketplace/grit-app,2025-10-22T05:40:10.346382
+Keploy,AI that writes VALIDATED UNIT TESTS right inside your GitHub PRs—saving 80% of your testing time,ai-assisted,https://github.com/marketplace/keploy,2025-10-22T05:40:10.517728
+Octopus for GitHub Copilot,The Octopus extension allows a cloud hosted Octopus instance to be queried via the GitHub Copilot chat interface,ai-assisted,https://github.com/marketplace/octopus-github-copilot-extension,2025-10-22T05:40:10.689447
+Tara AI,Collaborate as a team from requirement to release in one platform. Syncs to Github issues & your entire workflow in real-time,ai-assisted,https://github.com/marketplace/tara-ai,2025-10-22T05:40:10.866695
+Traycer AI,Complex Code Changes Made Simple,ai-assisted,https://github.com/marketplace/traycer-ai,2025-10-22T05:40:10.971721
+LambdaTest,"Design, implement and analyze test automation right where you code",ai-assisted,https://github.com/marketplace/lambdatest,2025-10-22T05:40:11.157605
+Gru Agent,Test Gru provides enterprise-level unit test automation services for clients,ai-assisted,https://github.com/marketplace/gru-agent,2025-10-22T05:40:11.339612
+http-fetch by ReadMe,Make http requests by chatting,ai-assisted,https://github.com/marketplace/http-fetch-by-readme,2025-10-22T05:40:11.525190
+Pinecone AI,Developers can leverage this app to gain crucial context or build AI applications with vector databases,ai-assisted,https://github.com/marketplace/pinecone-ai,2025-10-22T05:40:13.013310
+Spice.ai for GitHub Copilot,"Chat with repositories, external databases, data warehouses, and data lakes directly in GitHub Copilot",ai-assisted,https://github.com/marketplace/spice-ai-for-github-copilot,2025-10-22T05:40:13.189208
+New Relic Copilot Extension,"New Relic AI-powered insights for app performance, monitoring, and deployment optimization",ai-assisted,https://github.com/marketplace/newrelic-copilot-extension,2025-10-22T05:40:13.360178
+patched.codes,"Workflows for code reviews, docs and patches",ai-assisted,https://github.com/marketplace/patched-codes,2025-10-22T05:40:13.543917
+devloai,"AI Productivity Platform. Assign tickets, tasks, code reviews and track team productivity. Responds to @devloai",ai-assisted,https://github.com/marketplace/devloai,2025-10-22T05:40:13.718222
+DeepWiki,Unlock rich insights about any codebase in minutes,ai-assisted,https://github.com/marketplace/komment-docs,2025-10-22T05:40:13.886544
+LaunchDarkly for GitHub Copilot,"The LaunchDarkly Copilot Extension, available under @launchdarkly-app",ai-assisted,https://github.com/marketplace/launchdarkly-copilot-extension,2025-10-22T05:40:13.963750
+CodiumAI PR Agent (Free),"A hosted deployment of PR-Agent, aiming to help developers review pull requests faster and more efficiently",ai-assisted,https://github.com/marketplace/codiumai-pr-agent,2025-10-22T05:40:14.124610
+ChatCody,"Efficient code review made easy with a GPT-based chat bot for pull requests. Streamline the process, save time, and deliver h",ai-assisted,https://github.com/marketplace/chatcody,2025-10-22T05:40:14.227062
+JFrog for GitHub Copilot,"Get version, security, compliance & other package insights, tailored to your company, without leaving your coding workflow",ai-assisted,https://github.com/marketplace/jfrog,2025-10-22T05:40:14.374681
+Bright Security,Bright is a powerful dynamic App & API security testing (DAST) platform that security teams trust and developers love,ai-assisted,https://github.com/marketplace/nexploit-app,2025-10-22T05:40:14.522337
+CodeReviewBot.AI,Get AI Expert Suggestions for Every Pull Request,ai-assisted,https://github.com/marketplace/review-gpt,2025-10-22T05:40:14.668248
+Arm for GitHub Copilot,Learn how to develop better software on Arm servers in GitHub Copilot,ai-assisted,https://github.com/marketplace/arm-for-github-copilot,2025-10-22T05:40:14.837465
+Prisma for GitHub Copilot,"Get fast, accurate answers about Prisma without leaving your IDE",ai-assisted,https://github.com/marketplace/prisma-for-github-copilot,2025-10-22T05:40:14.925691
+LlamaPReview,"Evidence-based, context-aware AI Code reviewer – zero config, fully automated (Currently Total Free)",ai-assisted,https://github.com/marketplace/llamapreview,2025-10-22T05:40:15.008569
+Neon Postgres,Chat with the latest Neon docs,ai-assisted,https://github.com/marketplace/neon-database,2025-10-22T05:40:15.086178
+Baz AI Code Review,"AI agents that learn from past reviews to guide code review, surface risks, and help your team merge with confidence",ai-assisted,https://github.com/marketplace/baz-review,2025-10-22T05:40:15.231086
+Code search by Quod AI,Find the code you need faster,ai-assisted,https://github.com/marketplace/quod-ai-app,2025-10-22T05:40:15.392444
+Speakeasy API,Automatically create language-idiomatic SDKs from your API specification,ai-assisted,https://github.com/marketplace/speakeasy-api,2025-10-22T05:40:15.552501
+CodeFlash AI,Optimize the performance of your Python code automatically with AI,ai-assisted,https://github.com/marketplace/codeflash-ai,2025-10-22T05:40:15.711767
+PolyAPI,"PolyAPI is an enterprise platform for developing, running, and managing integrations, orchestrations, and microservices",ai-assisted,https://github.com/marketplace/polyapi,2025-10-22T05:40:17.091058
+Code Review AI,AI-powered code checking and improvement suggestions right in your pull requests,ai-assisted,https://github.com/marketplace/code-review-ai,2025-10-22T05:40:17.186067
+Deployment.io,Simple and powerful AI-powered DevOps & SRE assistant that saves time and enhances developer experience,ai-assisted,https://github.com/marketplace/deployment-io,2025-10-22T05:40:17.325889
+CleanThat,Automatic cleaning of code,ai-assisted,https://github.com/marketplace/cleanthat,2025-10-22T05:40:17.490395
+Crowdbotics for GitHub Copilot,Increase the accuracy of Copilot's code suggestions by referencing context-aware project specifications in Crowdbotics,ai-assisted,https://github.com/marketplace/crowdbotics-for-github-copilot,2025-10-22T05:40:17.657744
+Sliteteam,"Seamlessly syncing GitHub and Slite. Unfurl, and synchronize GitHub issues and PR within your AI-powered Slite knowledge base",ai-assisted,https://github.com/marketplace/sliteteam,2025-10-22T05:40:17.798167
+WithMaverick,The AI code reviewer,ai-assisted,https://github.com/marketplace/withmaverick,2025-10-22T05:40:17.863025
+OctaPHP,"A lightweight PHP framework designed for complex web algorithm, highly customizable and extensible",ai-assisted,https://github.com/marketplace/octaphp,2025-10-22T05:40:17.963045
+Telegram Sender Extension,Use Telegram Sender extension to connect your customer on Telegram and grow you business now,ai-assisted,https://github.com/marketplace/telegram-sender-extension,2025-10-22T05:40:18.061747
+GitAuto AI,AI Software Engineer for Backend,ai-assisted,https://github.com/marketplace/gitauto-ai,2025-10-22T05:40:18.215310
+SQL Auto Optimization - Postgres/MySQL/MariaDB/Aurora,"Automatic SQL Optimization, Automatic SQL profiler, SQL performance linter, Optimization API for SQL, Postgres/MySQL/MariaDB",ai-assisted,https://github.com/marketplace/sql-auto-optimization-postgres-mysql-mariadb-aurora,2025-10-22T05:40:18.374065
+AI Release Notes,Release notes generated using the commit history in a PR and AI,ai-assisted,https://github.com/marketplace/ai-github-release-notes,2025-10-22T05:40:18.510637
+watchman-pypi,"A bot, which continuously monitors dependency conflicts for millions of Python libraries in PyPI ecosystem",ai-assisted,https://github.com/marketplace/watchman-pypi,2025-10-22T05:40:18.569367
+DeepDocs AI,Fix Outdated Docs Automatically With Your Changing Codebase,ai-assisted,https://github.com/marketplace/deepdocsai,2025-10-22T05:40:18.651738
+Qodo for Open Source,"Qodo Merge is the enterprise edition of PR-Agent, aiming to help developers and managers review pull requests",ai-assisted,https://github.com/marketplace/qodo-merge-pro-for-open-source,2025-10-22T05:40:18.760067
+Packfiles Warp,"GitHub Migrations, Lightning Fast ⚡️",ai-assisted,https://github.com/marketplace/packfiles-warp,2025-10-22T05:40:18.889372
+Penify.dev,Automate Software Documentation of your Git Repository using LLMs,ai-assisted,https://github.com/marketplace/snorkell-ai,2025-10-22T05:40:18.972241
+Carta API,"The Carta Copilot extension lets you ask questions about the Carta API and get help with code, directly in VS code",ai-assisted,https://github.com/marketplace/carta-api,2025-10-22T05:40:19.073039
+Hyperlint AI,AI Copilot for Technical Writing and Documentation,ai-assisted,https://github.com/marketplace/hyperlint-ai,2025-10-22T05:40:19.165404
+xpander.ai,"The AI Agent platform for production-grade agents. Equip agents with state, tools, user management, and more",ai-assisted,https://github.com/marketplace/xpander-ai,2025-10-22T05:40:19.225830
+PR Explainer Bot,GitHub bot that automatically analyses and explain pull requests when they are created,ai-assisted,https://github.com/marketplace/pr-explainer-bot,2025-10-22T05:40:20.739200
+Swimm for GitHub Copilot,Generate documentation from Copilot chat that stays up to date automatically,ai-assisted,https://github.com/marketplace/swimm-for-github-copilot,2025-10-22T05:40:20.919487
+deephaven,A documentation and coding assistant for Deephaven,ai-assisted,https://github.com/marketplace/deephaven,2025-10-22T05:40:21.101503
+TestAzureML,For integrating Github and AzureML,ai-assisted,https://github.com/marketplace/testazureml,2025-10-22T05:40:21.227553
+CodeConverse AI,"Indexes Github repositories so you can conveniently find, read and write code from ChatGPT",ai-assisted,https://github.com/marketplace/codeconverse-ai,2025-10-22T05:40:21.398107
+Faros AI Assistant,"Get answers from Jira, GitHub and other engineering systems without leaving your IDE",ai-assisted,https://github.com/marketplace/faros-ai-assistant,2025-10-22T05:40:21.575703
+Figstack,Your intelligent reviewing companion,ai-assisted,https://github.com/marketplace/figstack,2025-10-22T05:40:21.744425
+DepsHub App,Update all your dependencies on autopilot,ai-assisted,https://github.com/marketplace/depshub-app,2025-10-22T05:40:21.918479
+Inspector Monitoring AI,Bug fix proposals that automatically fix your application errors,ai-assisted,https://github.com/marketplace/inspector-monitoring-ai,2025-10-22T05:40:22.117678
+The CTRL Bot,"A general-purpose GitHub Bot, working around *your* scripts",ai-assisted,https://github.com/marketplace/the-ctrl-bot,2025-10-22T05:40:22.288435
+Oki AI Integration,Oki AI reads your repos to help you understand what your team is working on and how your projects are tracking,ai-assisted,https://github.com/marketplace/oki-ai-integration,2025-10-22T05:40:22.463085
+Label Bot,Labels your PR with a Size and Kind using AI,ai-assisted,https://github.com/marketplace/label-bot,2025-10-22T05:40:22.622210
+Griptape Cloud,Deploy your AI python code with Griptape Cloud,ai-assisted,https://github.com/marketplace/griptape-cloud,2025-10-22T05:40:22.787566
+MonocleAI,"An AI application which detects, reports and fixes security bugs in your code",ai-assisted,https://github.com/marketplace/monocleai,2025-10-22T05:40:22.858640
+Follow Your Tribe,Coding styles of popular open source code for your project,ai-assisted,https://github.com/marketplace/follow-your-tribe,2025-10-22T05:40:23.007483
+Clemsbot App,A GitHub Assistant bot,ai-assisted,https://github.com/marketplace/clemsbot-app,2025-10-22T05:40:23.178574
+Adaptly,Copilot for dependency updates,ai-assisted,https://github.com/marketplace/adaptly,2025-10-22T05:40:23.294826
+Codara AI Code Review,Decrease Bugs and Ship Code Quicker,ai-assisted,https://github.com/marketplace/codara-ai-code-review,2025-10-22T05:40:23.480552
+Meeshkan,"Meeshkan automatically writes, executes, and reports on a collection of tests to squash bugs and improve your code",ai-assisted,https://github.com/marketplace/meeshkan,2025-10-22T05:40:23.654555
+SoftwareTesting.ai | Intelligent Code Coverage | AI Software Testing & Unit Testing,The code quality platform that identifies coverage gaps and suggests how to resolve them,ai-assisted,https://github.com/marketplace/softwaretesting-ai-intelligent-code-coverage,2025-10-22T05:40:23.824102
+ZeoBot,A Probot App that automates your repositories,ai-assisted,https://github.com/marketplace/zeobot,2025-10-22T05:40:25.277811
+Benchify (YC S24),Next-gen automated software testing for Python,ai-assisted,https://github.com/marketplace/benchify-yc-s24,2025-10-22T05:40:25.425534
+Cody: Your AI Code Review Assistant,"""Cody: AI-driven code review that enhances accuracy and speeds up approvals.""",ai-assisted,https://github.com/marketplace/cody-your-ai-code-review-assistant,2025-10-22T05:40:25.598508
+GitRev Game,"Turn code reviews into quests with GitRev Game! Earn points, level up, and bag badges. Code smarter, faster, and have fun",ai-assisted,https://github.com/marketplace/gitrev-game,2025-10-22T05:40:25.767395
+Evaluate GitHub Copilot,"How do you measure the impact? Dashboards to track adoption, usage, and productivity outcomes",ai-assisted,https://github.com/marketplace/faros-ai,2025-10-22T05:40:25.944885
+Open Buckets,OpenBuckets.io is a security tool for identifying vulnerabilities in cloud storage buckets across various platform,ai-assisted,https://github.com/marketplace/open-buckets,2025-10-22T05:40:26.113638
+Decca-Maven,"A bot, which diagnoses dependency conflict issues for Maven-Java projects (http://www.watchman-pypi.com/decca)",ai-assisted,https://github.com/marketplace/decca-maven,2025-10-22T05:40:26.286927
+PDF Automation Server for Windows,PDF Automation Server is a modular server product that provides a rich set of PDF processing functions,ai-assisted,https://github.com/marketplace/pdf-automation-server-for-windows,2025-10-22T05:40:26.463322
+Kebechet,"I'm Kebechet bot, goddess of freshness - I will keep your source code fresh and up-to-date",ai-assisted,https://github.com/marketplace/khebhut,2025-10-22T05:40:26.643203
+Gooroo.dev: Instant Code Review,"Instant Code Review and fixes. Security, Performance, Typos, Mistakes, Best Practices",ai-assisted,https://github.com/marketplace/gooroo-dev-app,2025-10-22T05:40:26.821179
+Blogcop,Manage the outdated articles from your Jekyll blog,ai-assisted,https://github.com/marketplace/outdated-article,2025-10-22T05:40:27.028541
+GossipMessageApp,"Gossip is a encrypted message app, so we dont have our app in any App store, as we don't want to compromise on your privacy",ai-assisted,https://github.com/marketplace/gossipmessageapp,2025-10-22T05:40:27.209457
+PR Pilot AI,A text-to-task platform for GitHub developers to trigger AI-driven development tasks in their repositories,ai-assisted,https://github.com/marketplace/pr-pilot-ai,2025-10-22T05:40:27.322608
+AIJS - Browser IDE,"The most versatile browser based code editor, designed for creative coders",ai-assisted,https://github.com/marketplace/aijs-browser-ide,2025-10-22T05:40:27.500555
+Copilot Metrics Viewer,Display Copilot usage metrics (beta),ai-assisted,https://github.com/marketplace/copilot-metrics-viewer,2025-10-22T05:40:27.681555
+Findr AI,Perplexity for workplace apps,ai-assisted,https://github.com/marketplace/findr-ai,2025-10-22T05:40:27.809339
+Commet AI,Automated code documentation,ai-assisted,https://github.com/marketplace/commet-ai,2025-10-22T05:40:27.896574
+D7.8.5,API Install TWILIO Communication,ai-assisted,https://github.com/marketplace/d7-8-5,2025-10-22T05:40:28.064700
+Evergreen Docs,Keep your documentation green and fresh,ai-assisted,https://github.com/marketplace/evergreen-docs,2025-10-22T05:40:28.248997
+AI Issue Labeler,Bot that labels your issues for you based on your past labelling decisions,ai-assisted,https://github.com/marketplace/coder-labeler,2025-10-22T05:40:28.423425
+stivbot,The Business Planning Bot,ai-assisted,https://github.com/marketplace/stivbot,2025-10-22T05:40:30.024299
+Stitchflow for GitHub,See and act on all your IT data in one place,ai-assisted,https://github.com/marketplace/stitchflow-for-github,2025-10-22T05:40:30.199038
+Octomind Execute,GA Action to trigger Octomind UI tests from your CI. We will report test results directly to your PR comments,ai-assisted,https://github.com/marketplace/octomind-execute,2025-10-22T05:40:30.386859
+PictuBot,GitHub app for perceptual image optimization,ai-assisted,https://github.com/marketplace/pictubot,2025-10-22T05:40:30.573519
+Integration.app,Connect your GitHub with a growing number of apps,ai-assisted,https://github.com/marketplace/integration-app,2025-10-22T05:40:30.747746
+Gagam AI,Get AI-powered issue insights on Github with Gagam - the OpenAI integration for faster solutions,ai-assisted,https://github.com/marketplace/gagam-ai,2025-10-22T05:40:30.926292
+Assembly Git,Get context on what your code does and why,ai-assisted,https://github.com/marketplace/assembly-git,2025-10-22T05:40:31.103076
+Code Vault Sync,This app makes it easier to sync the contents of a repository into a code vault on The Code Registry,ai-assisted,https://github.com/marketplace/code-vault-sync,2025-10-22T05:40:31.278329
+PerfAI,AI-driven Active Performance. Deliver High-Performance APIs and achieve 3x engagement and upsell,ai-assisted,https://github.com/marketplace/perfai-app,2025-10-22T05:40:31.411876
+Autohive AI,"Automate GitHub repo management: create, update, and sync issues, PRs, branches, workflows, and more from your workspace",ai-assisted,https://github.com/marketplace/autohive-ai,2025-10-22T05:40:31.543896
+EasyMemo,A useful and small application as a lightweight editor and an easy memo that is very user-friendly,ai-assisted,https://github.com/marketplace/easymemo,2025-10-22T05:40:31.604066
+Zumbro Bot,"Zumbro is a DevOps automation tool that helps your team define, apply, and enforce engineering standards",ai-assisted,https://github.com/marketplace/zumbro-bot,2025-10-22T05:40:31.659898
+Reviewabot,Your AI code review assistant,ai-assisted,https://github.com/marketplace/reviewabot,2025-10-22T05:40:31.714594
+Engi Software Agents,Install to Enable GitHub Integration with Engi Software,ai-assisted,https://github.com/marketplace/engi-github-app,2025-10-22T05:40:31.769975
+Launchable app,Launchable is a test failure intelligence platform that makes your test failure investigations easier and faster,ai-assisted,https://github.com/marketplace/launchable-app,2025-10-22T05:40:31.823483
+Astronuts,"Automated your pull request code reviews, line-by-line code suggestions,, static code analysis and walkthrough summary",ai-assisted,https://github.com/marketplace/astronuts-app,2025-10-22T05:40:31.876551
+Cottage Freelancing,Gig economy for React/Typescript engineers,ai-assisted,https://github.com/marketplace/cottage-freelancing,2025-10-22T05:40:31.928565
+automation-app-bot,All the missing GitHub automation,ai-assisted,https://github.com/marketplace/automation-app-bot,2025-10-22T05:40:31.984710
+PDF Automation Server for Linux,PDF Automation Server is a modular server product that provides a rich set of PDF processing functions,ai-assisted,https://github.com/marketplace/pdf-automation-server-for-linux,2025-10-22T05:40:32.039058
+Trapi-ai,Automate your Travel API Integrations,ai-assisted,https://github.com/marketplace/trapi-ai,2025-10-22T05:40:32.096501
+Devzery,Self-Driving AI Agent for API Functional Regression Testing,ai-assisted,https://github.com/marketplace/devzery,2025-10-22T05:40:33.462280
+Heeler Application Security Platform,"Runtime fixability-first SCA: know what’s exploitable, what’s safe to upgrade, and auto generate PRs for fixes",ai-assisted,https://github.com/marketplace/heeler-application-security-platform,2025-10-22T05:40:33.601234
+InstaPR,AI-powered Instant PR Reviews: Boost Code Quality & Merge Faster,ai-assisted,https://github.com/marketplace/instapr,2025-10-22T05:40:33.771272
+CloudAEye DevProd,"AI companion for test failure analysis, code review and Q&A",ai-assisted,https://github.com/marketplace/cloudaeye-devprod,2025-10-22T05:40:33.908954
+Foundational Data,"Build data pipelines with confidence. You build, we'll validate and find your issues",ai-assisted,https://github.com/marketplace/foundational-data,2025-10-22T05:40:34.046580
+SignNow,"Build, customize, and troubleshoot eSignature integrations with context-aware AI guidance",ai-assisted,https://github.com/marketplace/signnow,2025-10-22T05:40:34.221746
+Translatabot,Automate localization in any language with AI-powered PRs,ai-assisted,https://github.com/marketplace/translatabot,2025-10-22T05:40:34.394906
+Current + Github,Automatically post your pull requests to Current,ai-assisted,https://github.com/marketplace/current-github,2025-10-22T05:40:34.567285
+Bloomfilter Platform,"Increase The Transparency, Predictability, and Efficiency of Software Development with AI Driven Process Mining",ai-assisted,https://github.com/marketplace/bloomfilter-platform,2025-10-22T05:40:34.732954
+ubiquity-os,AI manager for remote teams,ai-assisted,https://github.com/marketplace/ubiquity-os,2025-10-22T05:40:34.901706
+TagDebt bot,"Identify technical debt in issues using ML, and automatically assign labels to facilitate issue management",ai-assisted,https://github.com/marketplace/tagdebt-bot,2025-10-22T05:40:35.073547
+RepoBird,Mention @RepobirdBot on any GitHub issue or PR—an AI engineer fixes the issue and submits or updates the pull request,ai-assisted,https://github.com/marketplace/repobird,2025-10-22T05:40:35.145752
+Exo AI - Writes tests using LLMs for all files when a PR is opened,Exo AI - AI generated tests for all,ai-assisted,https://github.com/marketplace/exo-github-app-uses-llms-to-write-a-test-for-all-files-when-a-pr-is-opened,2025-10-22T05:40:35.275546
+VelocityAI | Market Standard,"An AI coworker, not just a copilot",ai-assisted,https://github.com/marketplace/velocityai-market-standard,2025-10-22T05:40:35.424748
+theissue.ai,Enhancing Issue reporting with LLM and Agents,ai-assisted,https://github.com/marketplace/theissue-ai,2025-10-22T05:40:35.483747
+Squadron AI,"AI assisted code reviews with in-depth context, real-time chat and issue analysis",ai-assisted,https://github.com/marketplace/squadron-ai,2025-10-22T05:40:35.559679
+Dashgen Web App,"Connect with top AI models using your own API keys for secure, flexible, and cost-effective integration",ai-assisted,https://github.com/marketplace/dashgen-web-app,2025-10-22T05:40:35.733736
+Gomboc.AI Community,Automatically fix infrastructure-as-code (IaC) security misconfigurations,ai-assisted,https://github.com/marketplace/gomboc-ai-community,2025-10-22T05:40:35.912189
+watchflow,GitHub native custom branch and deployment protection rules,ai-assisted,https://github.com/marketplace/watchflow,2025-10-22T05:40:36.082363
+IrisAgent,Scale community support on GitHub with AI-based issue resolution,ai-assisted,https://github.com/marketplace/irisagent,2025-10-22T05:40:36.250200
+JENRES,"Empowering developers to focus on what matters, JENRES tidies, tests and enhances your code directly from GitHub",ai-assisted,https://github.com/marketplace/jenres,2025-10-22T05:40:37.818029
+AutoCommit AI,Let your code speak for itself,ai-assisted,https://github.com/marketplace/autocommit-ai,2025-10-22T05:40:37.890374
+Proton,Address PR reviews automatically,ai-assisted,https://github.com/marketplace/doctor-pr,2025-10-22T05:40:38.040448
+SDP Aviator,Copilot extension that facilitates communication between GitHub Copilot Chat and the OpenText Core Software Delivery Platform,ai-assisted,https://github.com/marketplace/sdp-aviator,2025-10-22T05:40:38.208403
+Re-Facto,"Worry Less, Code More",ai-assisted,https://github.com/marketplace/re-facto,2025-10-22T05:40:38.382002
+torvalds.dev,Torvalds is an AI-powered GitHub maintenance assistant,ai-assisted,https://github.com/marketplace/torvalds-dev,2025-10-22T05:40:38.561921
+Rewatch for GitHub,"Create, link, and sync GitHub issues with Rewatch videos, action items, and comment threads",ai-assisted,https://github.com/marketplace/rewatch-for-github,2025-10-22T05:40:38.742419
+wellcode.ai,"AI-powered GitHub app providing metrics, insights, and rewards for developers directly within their PR workflow",ai-assisted,https://github.com/marketplace/wellcode-ai,2025-10-22T05:40:38.895364
+Nudge Bot,Nudge: Accelerating Overdue Pull Requests toward Completion,ai-assisted,https://github.com/marketplace/nudge-bot,2025-10-22T05:40:38.997080
+Darkest-PR,GitHub app/bot for responding to actions and events in your repository using contextual quotes from Darkest Dungeon,ai-assisted,https://github.com/marketplace/darkest-pr,2025-10-22T05:40:39.152140
+MyDayPranav,Get all github details in a single place,ai-assisted,https://github.com/marketplace/mydaypranav,2025-10-22T05:40:39.301620
+Aude for GitHub,Add GitHub to Aude’s Engineering Management Insights to understand code contributions and collaboration,ai-assisted,https://github.com/marketplace/aude-for-github,2025-10-22T05:40:39.433739
+CRUZ Code,Code performance reviews by AI,ai-assisted,https://github.com/marketplace/cruz-code,2025-10-22T05:40:39.587684
+prplex,Accelerate your code reviews and find more defects using cutting-edge AI to identify potential problems in your code,ai-assisted,https://github.com/marketplace/prplex,2025-10-22T05:40:39.726619
+Refactory - PR Assistant,Convert your PR into a masterpiece,ai-assisted,https://github.com/marketplace/refactory-analyze-pr-refactor-functions-write-tests-create-documentations,2025-10-22T05:40:39.906724
+Voltage-Manager,Voltage is an easy to use package manager,ai-assisted,https://github.com/marketplace/voltage-manager,2025-10-22T05:40:40.073480
+Commit Clarity,Developer productivity enhanced,ai-assisted,https://github.com/marketplace/commit-clarity,2025-10-22T05:40:40.247829
+PDF Automation Server for macOS,PDF Automation Server is a modular server product that provides a rich set of PDF processing functions,ai-assisted,https://github.com/marketplace/pdf-automation-server-for-macos,2025-10-22T05:40:40.416753
+Saldor,AI coding bot,ai-assisted,https://github.com/marketplace/saldor-ai,2025-10-22T05:40:40.586607
+LeetBot-V2,Leetbot is a friendly ai assistant helpful for practicing DSA and helps to upload user code directly to github,ai-assisted,https://github.com/marketplace/leetbot-v2,2025-10-22T05:40:40.677001
+GitRecap - GitPages,A modular Python tool that aggregates and formats user-authored messages from repositories,ai-assisted,https://github.com/marketplace/gitrecap-gitpages,2025-10-22T05:40:42.221779
+Mediumroast for GitHub,AI assisted product planning for GitHub,ai-assisted,https://github.com/marketplace/mediumroast-for-github,2025-10-22T05:40:42.413337
+Caddie - Code Monitoring,"Caddie tracks Github, Slack, and other metrics to get a bird's eye view of your organization's productivity",ai-assisted,https://github.com/marketplace/caddie-code-monitoring,2025-10-22T05:40:42.580169
+vibe-checkr,Summarize your PR changes easily,ai-assisted,https://github.com/marketplace/vibe-checkr,2025-10-22T05:40:42.751294
+Aristiun aribot,"Security and compliance insights for your code supply chain, automates threat modelling and assess cloud infrastructure",ai-assisted,https://github.com/marketplace/aristiun-aribot,2025-10-22T05:40:42.850000
+Code Prime AI,Code Prime: Turbocharge Your Development with AI-Driven Code Reviews and Refactoring,ai-assisted,https://github.com/marketplace/code-prime-ai,2025-10-22T05:40:42.962583
+Hard Captcha,Captcha Resolver: Solve Any Captcha,ai-assisted,https://github.com/marketplace/hard-captcha,2025-10-22T05:40:43.138597
+docsalot,Automatically create docs for your cross repo PRs and changes,ai-assisted,https://github.com/marketplace/docs-alot,2025-10-22T05:40:43.316270
+Valven Atlas,Valven Atlas enables retrieving advanced insights on the software delivery process for the engineering teams,ai-assisted,https://github.com/marketplace/valven-atlas,2025-10-22T05:40:43.486574
+Code Companion AI,Code Companion AI is expertly crafted to simplify the process of documenting PRs,ai-assisted,https://github.com/marketplace/code-companion-ai,2025-10-22T05:40:43.666751
+PeakU AI analytics,AI to speed up code reviews and improve your code quality,ai-assisted,https://github.com/marketplace/peaku-ai-analytics,2025-10-22T05:40:43.789313
+burden-bot,a bot to help open source maintainer manage their workload,ai-assisted,https://github.com/marketplace/burden-bot,2025-10-22T05:40:43.921309
+CloudAEye-powered observability,AI-powered observability for cloud applications,ai-assisted,https://github.com/marketplace/cloudaeye-powered-observability,2025-10-22T05:40:44.065130
+TPM-AI,Give TPM-AI access to individual repos for RAG AI prompts,ai-assisted,https://github.com/marketplace/tpm-ai,2025-10-22T05:40:44.248801
+EnhanceDocs,Documentation search with Natural Language,ai-assisted,https://github.com/marketplace/enhancedocs,2025-10-22T05:40:44.427149
+Luna HTML Fixer,An intelligent HTML code fixer,ai-assisted,https://github.com/marketplace/luna-html-fixer,2025-10-22T05:40:44.610676
+"Persana AI: GitHub Leads – Uncover Stargazers' Contacts, Personalized Emails & Company & Lead Enrichment","Boost your outreach with our GitHub app! Discover stargazers' details, personalize emails, explore powerful AI insights",ai-assisted,https://github.com/marketplace/persana-ai-github-leads-uncover-stargazers-contacts-personalized-emails-company-lead-enrichment,2025-10-22T05:40:44.782838
+Sudoviz,Secure your software stack with next gen AI,ai-assisted,https://github.com/marketplace/sudoviz,2025-10-22T05:40:44.954126
+PullGeniusAI,PullGenius - AI Code Review / Enhancement Tool,ai-assisted,https://github.com/marketplace/pullgeniusai,2025-10-22T05:40:45.137203
+Cloud Avenue Data Stack Insights,"Proactively safeguard your data pipelines with AI-driven insights, impact analysis, and seamless data stack integrations",ai-assisted,https://github.com/marketplace/cloud-avenue-data-stack-insights,2025-10-22T05:40:45.307538
+olympix-notifier,A notifier service for the Olympix toolsuite,ai-assisted,https://github.com/marketplace/olympix-notifier,2025-10-22T05:40:46.947987
+technicianai,Resolve check failures with AI,ai-assisted,https://github.com/marketplace/technicianai,2025-10-22T05:40:47.117475
+xSyched.com - MyGPTInfo,AI powered Nature Language Assistant with unlimited contextual memory,ai-assisted,https://github.com/marketplace/xsyched-com-mygptinfo,2025-10-22T05:40:47.285103
+Caddie OAuth,"Caddie tracks Github, Slack, and other metrics to get a bird's eye view of your organization's productivity",ai-assisted,https://github.com/marketplace/caddie-oauth,2025-10-22T05:40:47.452477
+A1MX,Healthcare Intelligence,ai-assisted,https://github.com/marketplace/xerataus,2025-10-22T05:40:47.622611
+CodevBots,"Automation bot that will create PR once any branch merged into develop branch, and will squash merged into main",ai-assisted,https://github.com/marketplace/codevbots,2025-10-22T05:40:47.779297
+OpenCSG-starship,AI code assistant powered by OpenCSG,ai-assisted,https://github.com/marketplace/opencsg-starship,2025-10-22T05:40:47.838813
+PyTorch Perforated Backpropagation,PyTorch Optimization tool for improved inference scores and smaller model sizes,ai-assisted,https://github.com/marketplace/pytorch-perforated-backpropagation,2025-10-22T05:40:47.951772
+JambuBot,"Automate various GitHub repository tasks, including issue management, pull request handling, and more",ai-assisted,https://github.com/marketplace/jambubot,2025-10-22T05:40:48.123092
+CommitPower,Commit Power - AI Code Review,ai-assisted,https://github.com/marketplace/commitpower,2025-10-22T05:40:48.297373
+Codenudge,"AI-powered pull request reviews, summaries, and contributor insights — directly in GitHub. Review faster, ship better",ai-assisted,https://github.com/marketplace/codenudge,2025-10-22T05:40:48.480511
+Self XDSD,Automated Project Management For Github Repositories,ai-assisted,https://github.com/marketplace/self-xdsd,2025-10-22T05:40:48.650526
+IQX,Security Intelligence Quiddity System,ai-assisted,https://github.com/marketplace/icd-authorization-portal,2025-10-22T05:40:48.844983
+wellcode-cli,Engineering Metrics Powered by AI,ai-assisted,https://github.com/marketplace/wellcode-cli,2025-10-22T05:40:48.946614
+FRP (Testing),Fynix Review Pilot Testing Application,ai-assisted,https://github.com/marketplace/frp-testing,2025-10-22T05:40:49.120004
+Nudgify,Connect your Github repository with Nudgify to display your Push and Pull events as nudges on your websites,ai-assisted,https://github.com/marketplace/nudgify,2025-10-22T05:40:49.291871
+Luna Code Checker,An advanced web-based tool for checking JavaScript code using ESLint,ai-assisted,https://github.com/marketplace/luna-code-checker,2025-10-22T05:40:49.457202
+ErnesTechDotCom,A social Network for Software Developers,ai-assisted,https://github.com/marketplace/ernestechdotcom,2025-10-22T05:40:49.622740
+commit-collab,Simple tool to summarize commits,ai-assisted,https://github.com/marketplace/commit-collab,2025-10-22T05:40:49.791057
+Tiza - Horário Escolar,Tiza,ai-assisted,https://github.com/marketplace/tiza-horario-escolar,2025-10-22T05:40:51.220783
+CrowChat.me,"Connect your custom AI Agent with GitHub to brainstorm ideas, create issues and manage repos from any device",ai-assisted,https://github.com/marketplace/crowchat-me,2025-10-22T05:40:51.387065
+PushToProd.ai,A documentation engine and workflow accelerator,ai-assisted,https://github.com/marketplace/pushtoprod-ai,2025-10-22T05:40:51.560901
+MiddlewareHQ,Middleware is a product for engineering leaders to prevent delivery delays and people burnouts,ai-assisted,https://github.com/marketplace/middlewarehq,2025-10-22T05:40:51.728770
+CodeReviewGen,Automate the review of your software code using the power of AI,ai-assisted,https://github.com/marketplace/codereviewgen,2025-10-22T05:40:51.884088
+ghadaam-cli,A pioneer in a new era of thought and technology made for you,ai-assisted,https://github.com/marketplace/ghadaam-cli,2025-10-22T05:40:52.019312
+neraton,The AI engine for your chat and work flows,ai-assisted,https://github.com/marketplace/neraton,2025-10-22T05:40:52.197288
+Codespy AI Detector,Codespy AI Detector for Source Code,ai-assisted,https://github.com/marketplace/codespy-ai-detector,2025-10-22T05:40:52.379394
+com.cleverchuk.doers,"Create, Manage, Collaborate",ai-assisted,https://github.com/marketplace/com-cleverchuk-doers,2025-10-22T05:40:52.553607
+boltfeed,"Bolt empowers teams to share knowledge, document features, and tell compelling product stories",ai-assisted,https://github.com/marketplace/boltfeed,2025-10-22T05:40:52.727098
+Nightfall DLP: GitHub Secrets Scanner,"Nightfall automatically detects PII, credentials, secrets, and more in GitHub repos via machine learning. Free tier",ai-assisted,https://github.com/marketplace/watchtower-radar,2025-10-22T05:40:52.842295
+Mastermind Assistant,AI and Voice Assistant Designed Specifically for Developers,ai-assisted,https://github.com/marketplace/mastermind-assistant,2025-10-22T05:40:52.941299
+Quod AI,Our app has moved to: https://github.com/marketplace/quod-ai-app,ai-assisted,https://github.com/marketplace/quod-ai,2025-10-22T05:40:53.102041
+ThreatKey,Rapidly identify and remediate misconfigurations and security issues in SaaS and Cloud applications,ai-assisted,https://github.com/marketplace/threatkey,2025-10-22T05:40:53.268476
+Quick Slot,https://api.github.com/users/octocat/received_events,ai-assisted,https://github.com/marketplace/quick-slot,2025-10-22T05:40:53.434558
+codefaceapp,CodeFace is a web application that allows you to track code changes and share them with your team,ai-assisted,https://github.com/marketplace/codefaceapp,2025-10-22T05:40:53.607817
+termux-os,a multi script bash shell,ai-assisted,https://github.com/marketplace/termux-os,2025-10-22T05:40:53.770913
+GitUnion Product Companion,Scope and ship products faster with your own AI product companion,ai-assisted,https://github.com/marketplace/gitunion-product-companion,2025-10-22T05:40:53.910113
+cloudeagle.ai,"CloudEagle helps finance, operations, and IT teams save money on SaaS (software subscription) spend",ai-assisted,https://github.com/marketplace/cloudeagle-ai,2025-10-22T05:40:54.002562
+SmythOs,Automatically connect GitHub to AI agents in SmythOs,ai-assisted,https://github.com/marketplace/smythos,2025-10-22T05:40:54.158025
+Prosecurelabs,Automate design checks and visual testing in GitHub workflows with the DesignMedia Plugin,ai-assisted,https://github.com/marketplace/prosecurelabs,2025-10-22T05:40:55.712943
+Hoppscotch,"Flexible, scalable database sync utility for Hoppscotch",api-management,https://github.com/marketplace/hoppscotch,2025-10-22T05:40:57.487002
+WSO2 Cloud App,The WSO2 Cloud App provides integration between your GitHub repositories and WSO2’s cloud platforms,api-management,https://github.com/marketplace/choreo-apps,2025-10-22T05:40:57.626745
+Mockend,On-demand GraphQL & REST fake API,api-management,https://github.com/marketplace/mockend,2025-10-22T05:40:57.730244
+n8n.cloud,Automatically connect GitHub to third-party apps with n8n,api-management,https://github.com/marketplace/n8n-cloud,2025-10-22T05:40:57.819565
+Apollo Studio,"A cloud platform that helps you build, collaborate on, validate, and secure your organization's GraphQL API",api-management,https://github.com/marketplace/apollo-studio,2025-10-22T05:40:58.035557
+Stainless App,Stainless provides robust & polished SDKs for your REST API,api-management,https://github.com/marketplace/stainless-app,2025-10-22T05:40:58.183166
+Payvost,Payment gateway built on blockchain technology,api-management,https://github.com/marketplace/payvost,2025-10-22T05:40:58.535495
+getAddress(),Simple APIs for UK addresses,api-management,https://github.com/marketplace/getaddress,2025-10-22T05:40:58.698101
+Moesif API Analytics and Monetization,Powerful API analytics and usage-based billing to monetize APIs,api-management,https://github.com/marketplace/moesif-api-insights,2025-10-22T05:40:58.852407
+GraphQL Hive,Open-Source GraphQL Federation Platform,api-management,https://github.com/marketplace/graphql-hive,2025-10-22T05:40:59.135331
+Repo Meister App,GitHub repository management made easy,api-management,https://github.com/marketplace/repo-meister-app,2025-10-22T05:40:59.502630
+Performance Testing Bot,Easy to use and configure API performance testing application,api-management,https://github.com/marketplace/performancetestingbot,2025-10-22T05:40:59.680799
+ReadMe Micro,"Connect, organize, and auto-generate documentation for your team's internal APIs",api-management,https://github.com/marketplace/readme-micro,2025-10-22T05:40:59.945434
+gRPC SDK and Documentation Builder,Build SDK and Documentation in CI/CD manner,api-management,https://github.com/marketplace/gendocu-grpc-ci-cd-beta,2025-10-22T05:41:00.081434
+Apico - API Development Platform,Get easy and secure access to GitHub APIs to build no-code applications fast,api-management,https://github.com/marketplace/apico-api-development-platform,2025-10-22T05:41:00.182407
+Dart Email validator,A simple (but correct) Dart class for validating email addresses without using RegEx. Can also be used to validate emails wit,api-management,https://github.com/marketplace/dart-email-validator,2025-10-22T05:41:00.337198
+Integrately App,Integrately is a 1 click automation software that enables you to connect GitHub with your favorite apps in just 1 click,api-management,https://github.com/marketplace/integrately-app,2025-10-22T05:41:01.797076
+GraphQLAdmin,"Build, test, and document your GraphQL APIs",api-management,https://github.com/marketplace/graphqladmin,2025-10-22T05:41:01.934772
+OasLive,OasLive synchronizes OpenApi Specification in one place to provide Specification Visualizer and Mock server,api-management,https://github.com/marketplace/oaslive,2025-10-22T05:41:02.098465
+Schema Visualizer,Turn data models and APIs into visualization,api-management,https://github.com/marketplace/hubql,2025-10-22T05:41:02.189053
+G7.8.5,webtechnicom Twilio API Communication Service,api-management,https://github.com/marketplace/g7-8-5,2025-10-22T05:41:02.341871
+Freshsales API Webtechnicom,Python freshsales Library API,api-management,https://github.com/marketplace/freshsales-api-webtechnicom,2025-10-22T05:41:02.505149
+Push1st,New generation message broker service,api-management,https://github.com/marketplace/push1st,2025-10-22T05:41:02.808228
+nstrumenta-github,nstrumenta github app,api-management,https://github.com/marketplace/nstrumenta-github,2025-10-22T05:41:02.875827
+Truto Unified API,Truto provides Unified and Proxy API for CI/CD and VCS,api-management,https://github.com/marketplace/truto-unified-api,2025-10-22T05:41:03.065952
+ZeroID API Key Storage,"Store, deploy, and access API keys effortlessly. No need for manual cloning or input. Designed for the modern developer",api-management,https://github.com/marketplace/zeroid-api-key-storage,2025-10-22T05:41:03.124660
+devOrangeWrench,discovery github api,api-management,https://github.com/marketplace/devorangewrench,2025-10-22T05:41:03.178622
+Tines,No-code automation platform,api-management,https://github.com/marketplace/tines,2025-10-22T05:41:03.230104
+Telebirr-cloud-bot,Telebirr integration,api-management,https://github.com/marketplace/telebirr-cloud-bot,2025-10-22T05:41:03.297137
+DIDWW API,DIDWW API,api-management,https://github.com/marketplace/didww-api,2025-10-22T05:41:03.447669
+AutoKitteh,Workflow automation in just a few lines of code,api-management,https://github.com/marketplace/autokitteh,2025-10-22T05:41:03.806406
+zooba.ai-app,Easier application and license management,api-management,https://github.com/marketplace/zooba-ai-app,2025-10-22T05:41:03.926200
+APIMatic OpenAPI Linter,Quickly get your API definitions in shape for SDK and documentation generation,api-management,https://github.com/marketplace/apimatic-openapi-linter,2025-10-22T05:41:04.088989
+Climate Warrior Official,Eco-friendly data storage with automatic versioning and carbon footprint tracking,api-management,https://github.com/marketplace/climate-warrior-official,2025-10-22T05:41:05.612453
+RTM integration,RTM tool for CI/CD integrations,api-management,https://github.com/marketplace/rtm-integration,2025-10-22T05:41:05.791362
+Flotiq - headless API-first CMS,API publishing and headless content management platform,api-management,https://github.com/marketplace/flotiq-aws-staging,2025-10-22T05:41:05.975704
+EmailForge,"Bulk email generator: upload CSVs, get professional email lists with credits-based plans and GitHub SSO integration",api-management,https://github.com/marketplace/emailforge,2025-10-22T05:41:06.151930
+NNS CDN Manager,Manage Content Delivery Network of NNSVN,api-management,https://github.com/marketplace/nns-cdn-manager,2025-10-22T05:41:06.271620
+FuseDrill,Automatic fuzzing/simulation testing for OpenAPIs,api-management,https://github.com/marketplace/fusedrill,2025-10-22T05:41:06.437595
+TriggerMesh,Serverless Management Platform with Kubernetes,api-management,https://github.com/marketplace/triggermesh,2025-10-22T05:41:06.607123
+WayScript,A rapid scripting platform for developers,api-management,https://github.com/marketplace/wayscript,2025-10-22T05:41:06.776018
+CPods-DevOps,For CPods DevOps,api-management,https://github.com/marketplace/cpods-devops,2025-10-22T05:41:06.943744
+PHI Network Login,OAuth Login For PHI Network Users,api-management,https://github.com/marketplace/phi-network-login,2025-10-22T05:41:07.116253
+Woyanay Tigray Media,Woyanaytigraymedia,api-management,https://github.com/marketplace/woyanay-tigray-media,2025-10-22T05:41:07.286494
+Rewind Backups for GitHub,"Automated GitHub backups so you can recover fast, stay compliant, and never lose a line of code",backup-utilities,https://github.com/marketplace/backhub,2025-10-22T05:41:09.658341
+GitProtect Backup and Recovery,"World's most tech-savvy GitHub backup, recovery, restore, migration & config management trusted by Fortune 500",backup-utilities,https://github.com/marketplace/gitprotect-io,2025-10-22T05:41:09.836467
+Cloudback: GitHub Backup & Restore,"Backup repositories, metadata and LFS into AWS, Azure, OneDrive, GCP. SOC2 Type II compliant. Pay per repositories, not seats",backup-utilities,https://github.com/marketplace/cloudback,2025-10-22T05:41:10.013582
+Backup Github (Backrightup),Automatic backups & restores of repos/metadata. Multiple storage/regions including Azure/AWS or your own. Free plan available,backup-utilities,https://github.com/marketplace/backup-github-backrightup,2025-10-22T05:41:10.185685
+BackupLABS (GitHub Backup & Restore),"Backup/Restore: Repos & Gists (automated, on-demand & downloadable). Includes comprehensive metadata & simple pricing",backup-utilities,https://github.com/marketplace/backuplabs,2025-10-22T05:41:10.347032
+SimpleBackups for GitHub,"User-friendly, secure backup solution for GitHub repositories, gists, projects, with easy restoration",backup-utilities,https://github.com/marketplace/simplebackups-for-github,2025-10-22T05:41:10.479868
+ProBackup for GitHub,Back up your Github repositories before it is too late. Recover & restore lost repositories with just a few clicks,backup-utilities,https://github.com/marketplace/probackup-for-github,2025-10-22T05:41:10.661283
+SadaivCI,Sadaiv provides easy backups for Github repositories on web3 infrastructure for free and builds your on-chain developer id,backup-utilities,https://github.com/marketplace/sadaivci,2025-10-22T05:41:10.820758
+Back Git Up,Protect your code from malicious actors and accidental deletion,backup-utilities,https://github.com/marketplace/back-git-up-backups-for-github,2025-10-22T05:41:10.989541
+Yield Tech Hub,"Effortlessly upload, store, and manage your digital media, ensuring your content is always accessible and protected",backup-utilities,https://github.com/marketplace/yield-tech-hub,2025-10-22T05:41:11.348924
+Product Env,Platform allowing users to save their secrets online,backup-utilities,https://github.com/marketplace/product-env,2025-10-22T05:41:11.522411
+GitPal.io,Safe and Secure way to create a Git backup script,backup-utilities,https://github.com/marketplace/gitpal-io,2025-10-22T05:41:11.697586
+Slack + GitHub,Connect your code without leaving Slack,chat,https://github.com/marketplace/slack-github,2025-10-22T05:41:13.697366
+giscus,A commenting system powered by GitHub Discussions,chat,https://github.com/marketplace/giscus,2025-10-22T05:41:13.858864
+Microsoft Teams for GitHub,Connect your code without leaving Microsoft Teams,chat,https://github.com/marketplace/microsoft-teams-for-github,2025-10-22T05:41:13.941334
+GitLive,Accelerate your development team with preemptive merge conflict detection,chat,https://github.com/marketplace/teamhub,2025-10-22T05:41:14.242426
+Swarmia,"Measure and improve developer productivity — integrations with Jira, Linear, and Slack",chat,https://github.com/marketplace/swarmia,2025-10-22T05:41:14.706748
+Axolo for Slack,Slack Collaboration app for Pull Requests. Reduce pick-up time & organize daily standups around open PRs,chat,https://github.com/marketplace/axolo-for-slack,2025-10-22T05:41:15.218408
+wxwork github webhook,Github企业微信群机器人,chat,https://github.com/marketplace/wxwork-github-webhook,2025-10-22T05:41:16.025076
+PullFlow,"AI-enhanced code review collaboration across GitHub, Slack & VS Code",chat,https://github.com/marketplace/pullflow,2025-10-22T05:41:16.200439
+Pullpo for Slack,PR collaboration | DORA metrics | DevEx Surveys,chat,https://github.com/marketplace/pullpo-for-slack,2025-10-22T05:41:16.517089
+AskGit.io,Allows you you to chat with your software project via Slack,chat,https://github.com/marketplace/askgit-io,2025-10-22T05:41:16.660380
+Gitbot for Slack,Two-way sync between Slack and GitHub,chat,https://github.com/marketplace/gitbot-for-slack,2025-10-22T05:41:18.221172
+BeMU Chat,Google Firebase based Chat App,chat,https://github.com/marketplace/bemu-chat,2025-10-22T05:41:18.394211
+KeksChat,Your App to show your Github profile in your KeksChat profile,chat,https://github.com/marketplace/kekschat,2025-10-22T05:41:18.675577
+Pumble + GitHub,"Connect your code to your conversations, stay updated on projects, and move more work forward, all without leaving Pumble",chat,https://github.com/marketplace/pumble-github,2025-10-22T05:41:18.840178
+PR Chat,Monitor and discuss your Pull Requests right within Slack,chat,https://github.com/marketplace/pr-chat,2025-10-22T05:41:19.126356
+Swit Team collaboration,Team collaboration,chat,https://github.com/marketplace/swit-team-collaboration,2025-10-22T05:41:19.415776
+Unicorn Train,Employee-driven rewards and recognition that seamlessly integrates everywhere your team gets work done,chat,https://github.com/marketplace/unicorn-train,2025-10-22T05:41:19.551684
+MyRepoBot,"Connect Github to Telegram, configure notifications, and keep up with your updates",chat,https://github.com/marketplace/myrepobot,2025-10-22T05:41:19.680611
+Pull Requests Robot,ChatOps over Github pull requests and issues using slash commands,chat,https://github.com/marketplace/mergebot-pr,2025-10-22T05:41:19.811636
+Ally,Never miss team health updates and progress,chat,https://github.com/marketplace/ally,2025-10-22T05:41:19.961271
+GitHall App,Share Issues and Discussions from private repos without exposing your code,chat,https://github.com/marketplace/githall-app,2025-10-22T05:41:20.133527
+ClearFeed,Streamline Slack Conversations & Issue Tracking,chat,https://github.com/marketplace/clearfeed,2025-10-22T05:41:20.267357
+Jitbit HelpDesk,Helpdesk ticketing system,chat,https://github.com/marketplace/jitbit-helpdesk,2025-10-22T05:41:20.411554
+whoowns,"answer the question, who owns what? in slack. It auto-syncs CODEOWNERS for each repo and more",chat,https://github.com/marketplace/whoowns,2025-10-22T05:41:20.672256
+Devoro for Slack,"Cut your code review time in half. Collaborate better on PRs with your team—deliver higher quality code, faster",chat,https://github.com/marketplace/devoro-for-slack,2025-10-22T05:41:20.828692
+LiveTechHelper,Monetizes OSS contributions by allowing you to provide paid 1-to-1 support for any repo you contribute to in 3 clicks,chat,https://github.com/marketplace/livetechhelper-lth,2025-10-22T05:41:22.591688
+MIKHMON V3,"Mikhmon is a web-based application to make it easier to manage MikroTik hotspots, without using a radius server",chat,https://github.com/marketplace/dailylepedia,2025-10-22T05:41:23.332688
+Xeno App,"Xeno is an online tool designed to help attract, convert, and keep customers through the power of live response",chat,https://github.com/marketplace/xeno-app,2025-10-22T05:41:23.500928
+prisma-blog-comments,Chat app for the prisma blog,chat,https://github.com/marketplace/prisma-blog-comments,2025-10-22T05:41:23.670495
+SonarQube Cloud,"Empowering developers to detect Security Vulnerabilities, Bugs, and Code Smells in pull requests and repositories",code-quality,https://github.com/marketplace/sonarcloud,2025-10-22T05:41:26.090364
+Codecov | Code Coverage,Automatic test report merging for all CI and languages into a single code coverage report directly into your pull request,code-quality,https://github.com/marketplace/codecov,2025-10-22T05:41:26.275603
+Codacy,Codacy helps to build effortless code quality and security for developers,code-quality,https://github.com/marketplace/codacy,2025-10-22T05:41:26.454465
+Qlty Cloud,Code quality and coverage done right,code-quality,https://github.com/marketplace/code-climate,2025-10-22T05:41:26.631399
+Imgbot,A GitHub app that optimizes your images,code-quality,https://github.com/marketplace/imgbot,2025-10-22T05:41:26.740227
+DeepSource,The Code Health platform - Everything you need to build maintainable and secure software,code-quality,https://github.com/marketplace/deepsource-io,2025-10-22T05:41:26.821310
+Sourcery,AI code reviews and security scanning,code-quality,https://github.com/marketplace/sourcery-ai,2025-10-22T05:41:26.996059
+Aikido Security,Prevent security issues before they become threats,code-quality,https://github.com/marketplace/aikido-security,2025-10-22T05:41:27.176288
+CodeScene,A software engineering intelligence tool tool to identify and prioritize technical debt and evaluate your efficiency,code-quality,https://github.com/marketplace/codescene,2025-10-22T05:41:27.353456
+Semgrep,Code scanning at ludicrous speed. Find bugs and reachable dependency vulnerabilities. Enforce standards on every commit,code-quality,https://github.com/marketplace/semgrep-dev,2025-10-22T05:41:27.537436
+Coveralls,"Ensure that new code is fully covered, and see coverage trends emerge. Works with any CI service",code-quality,https://github.com/marketplace/coveralls,2025-10-22T05:41:27.717142
+CodeFactor,Automated code review for GitHub,code-quality,https://github.com/marketplace/codefactor,2025-10-22T05:41:27.836243
+DeepScan,"Advanced static analysis for automatically finding runtime errors in JavaScript, TypeScript, React, and Vue code",code-quality,https://github.com/marketplace/deepscan,2025-10-22T05:41:27.943518
+pre-commit ci,a continuous integration service for the pre-commit framework,code-quality,https://github.com/marketplace/pre-commit-ci,2025-10-22T05:41:28.126023
+Infracost,See cloud cost estimates and FinOps best practices for Terraform in pull requests,code-quality,https://github.com/marketplace/infracost,2025-10-22T05:41:28.307909
+Code Review Doctor,Catch more Python and Django bugs during code review,code-quality,https://github.com/marketplace/django-doctor,2025-10-22T05:41:28.487362
+CR.GPT,Code review robot powered by ChatGPT,code-quality,https://github.com/marketplace/cr-gpt,2025-10-22T05:41:28.808650
+Datree,YAML configs and K8s manifests validation tool,code-quality,https://github.com/marketplace/datree,2025-10-22T05:41:29.027569
+Unibeautify CI,Automated universal code formatter,code-quality,https://github.com/marketplace/unibeautify-ci,2025-10-22T05:41:30.631788
+Argos Visual Testing,Eliminate visual bugs & regressions,code-quality,https://github.com/marketplace/argos-ci,2025-10-22T05:41:30.816498
+Pull Request Size,Apply size labels to Pull Requests based on the total lines of code changed,code-quality,https://github.com/marketplace/pull-request-size,2025-10-22T05:41:30.935071
+PEP 8 Speaks,A GitHub app to automatically review Python code style over Pull Requests,code-quality,https://github.com/marketplace/pep-8-speaks,2025-10-22T05:41:31.098194
+Swimm Documentation,Keep code docs up to date with every PR,code-quality,https://github.com/marketplace/swimm-io,2025-10-22T05:41:31.328902
+Arnica Pipelineless Application Security,"Protect your source code and products. Actively mitigate secrets, SCA, licenses, IaC, SAST and low package reputation risks",code-quality,https://github.com/marketplace/arnica-software-supply-chain-security,2025-10-22T05:41:31.512482
+GraphQL Inspector,"Validate schemas, get schema change notifications, validate operations and fragments, find breaking changes",code-quality,https://github.com/marketplace/graphql-inspector,2025-10-22T05:41:31.589879
+CommitCheck,CommitCheck ensures your commit messages are consistent and contain all required information,code-quality,https://github.com/marketplace/commitcheck,2025-10-22T05:41:31.698031
+autofix.ci,Automatically fix pull requests to increase developer productivity,code-quality,https://github.com/marketplace/autofix-ci,2025-10-22T05:41:31.750126
+CodSpeed - Continuous Performance Analysis,Measure your performance continuously,code-quality,https://github.com/marketplace/codspeed-continuous-performance-analysis,2025-10-22T05:41:31.802835
+CodeLingo,Share links to snippets that open directly in VS Code,code-quality,https://github.com/marketplace/codelingo,2025-10-22T05:41:31.858664
+Commit Message Lint,Enforces convention of commit messages and pull request title,code-quality,https://github.com/marketplace/commit-message-lint,2025-10-22T05:41:31.912197
+axe Linter,"Powered by Deque Systems, helps you automatically find and fix accessibility issues",code-quality,https://github.com/marketplace/axe-linter,2025-10-22T05:41:31.965426
+pre-commit ci lite,an add-on to github actions which allows safely pushing changes back to pull requests,code-quality,https://github.com/marketplace/pre-commit-ci-lite,2025-10-22T05:41:32.018051
+Shiftleft (Legacy),The AI-powered AppSec platform,code-quality,https://github.com/marketplace/shiftleft-ng-sast,2025-10-22T05:41:32.068875
+abaplint,ABAP quality assurance and static analysis,code-quality,https://github.com/marketplace/abaplint,2025-10-22T05:41:32.149767
+SemanticDiff.com,"Language aware diff that hides irrelevant changes, detects moved code, and highlights refactorings",code-quality,https://github.com/marketplace/semanticdiff-com,2025-10-22T05:41:32.331029
+Check TODO,Checks for any added or modified TODO items in a Pull Request,code-quality,https://github.com/marketplace/check-todo,2025-10-22T05:41:32.509330
+Codeac.io,We help developers write clean code,code-quality,https://github.com/marketplace/codeac-io,2025-10-22T05:41:32.687028
+GitDailies,"PR & DORA metrics, amazing alerts, daily activity summaries",code-quality,https://github.com/marketplace/gitdailies,2025-10-22T05:41:34.094129
+Trakr,Cloud-based visual testing platform for website and web-apps,code-quality,https://github.com/marketplace/trakr,2025-10-22T05:41:34.270699
+Trend Micro Cloud One,Complete visibility and control of your applications' security at every stage of their lifecycle,code-quality,https://github.com/marketplace/trend-micro-cloud-one,2025-10-22T05:41:34.629333
+CodeThreat Cloud,"CodeThreat statically tests your code and helps you locate, prioritize and mitigate security weaknesses",code-quality,https://github.com/marketplace/codethreat-cloud,2025-10-22T05:41:34.810782
+AnyLint,Code linting on all your commits without any configuration needed,code-quality,https://github.com/marketplace/anylint,2025-10-22T05:41:34.956803
+GitInsights,Pull Request metrics for engineering teams,code-quality,https://github.com/marketplace/gitinsights-io,2025-10-22T05:41:35.099851
+Size Plugin,A Github bot for size-plugin,code-quality,https://github.com/marketplace/size-plugin,2025-10-22T05:41:35.157155
+SourceSpy,Automatically creates documentation for your project,code-quality,https://github.com/marketplace/sourcespy,2025-10-22T05:41:35.615190
+TestQuality - Unified Test Management for GitHub,Test Plan Driven QA Test Management for GitHub,code-quality,https://github.com/marketplace/testquality,2025-10-22T05:41:35.798858
+NShiftKey,NShiftKey is an Github-based DevSecOps support system developed by Naver Security,code-quality,https://github.com/marketplace/nshiftkey,2025-10-22T05:41:35.972912
+Scope for GitHub,Scope turns tests into the insights you need to ship higher quality software more frequently,code-quality,https://github.com/marketplace/scope-for-github,2025-10-22T05:41:36.147233
+Stacked Pull Requests,Ensure bite sized Code Reviews with Stacked Pull Requests,code-quality,https://github.com/marketplace/stacked-pull-requests,2025-10-22T05:41:36.294372
+Cyclopt Source Code Analyzer,Your everyday quality assistant that performs automated code reviews on each commit,code-quality,https://github.com/marketplace/maintainability-pal,2025-10-22T05:41:36.459846
+Codesherlock.ai,AI powered Git pull request review and code editor analysis platform,code-quality,https://github.com/marketplace/codesherlock-ai,2025-10-22T05:41:36.637768
+Commentor,Get the most out of your code reviews. Commentor gathers your code review comments and allow you to analyze them,code-quality,https://github.com/marketplace/commentor,2025-10-22T05:41:36.805503
+Hiphops.io,"Automatic pull request review, analysis, labelling. Understands if pull requests are fix, maintenance, or enhancement",code-quality,https://github.com/marketplace/hiphops-io,2025-10-22T05:41:36.978641
+tipit bot,tipit bot for Github. Tip people and reward developers with bounty pools,code-quality,https://github.com/marketplace/tipit-bot,2025-10-22T05:41:37.086781
+Guide Bot,Bot asks people to fill in details for issues and pull requests,code-quality,https://github.com/marketplace/guide-bot,2025-10-22T05:41:38.827918
+DevReplay,Replay your code development by your own rules,code-quality,https://github.com/marketplace/dev-replay,2025-10-22T05:41:38.935449
+ApproveMan,Automatic pull request approval for changes in safe locations,code-quality,https://github.com/marketplace/approveman,2025-10-22T05:41:39.066943
+Caribou | Migration Metrics,Use data driven metrics to fight technical debt,code-quality,https://github.com/marketplace/caribou-migration-metrics,2025-10-22T05:41:39.217312
+DiffLens,"Create language aware diffs on your PRs. Review changes intuitively, identify refactors & align relevant code changes easily",code-quality,https://github.com/marketplace/difflens,2025-10-22T05:41:39.331193
+tickgit,tickgit helps you manage TODO items in your codebase,code-quality,https://github.com/marketplace/tickgit,2025-10-22T05:41:39.500734
+RuboCop Auto Fixer,"Opens PRs against your code, based on ruby community standards",code-quality,https://github.com/marketplace/rubocop-auto-fixer,2025-10-22T05:41:39.815468
+Enterprise Github DLP,"AI powered enterprise ready cloud data discovery, data classification and data loss prevention platform",code-quality,https://github.com/marketplace/gamma-data-leak-prevention,2025-10-22T05:41:39.987914
+momentum.sh,momentum is a code behaviour auditor that scans your server-side code and tells you what can go wrong and how to test for it,code-quality,https://github.com/marketplace/momentum-sh,2025-10-22T05:41:40.157695
+codefair.io,Codefair is your personal assistant when it comes to making your research software reusable,code-quality,https://github.com/marketplace/codefair-app,2025-10-22T05:41:40.325776
+Watermelon for VS Code,A code archeology toolbox on VS Code,code-quality,https://github.com/marketplace/watermelon-for-vs-code,2025-10-22T05:41:40.498991
+Watnwy,Connect your Watnwy Tech radar with your codebase,code-quality,https://github.com/marketplace/watnwy,2025-10-22T05:41:40.654984
+RepoProfiler,Get context for your pull requests,code-quality,https://github.com/marketplace/repoprofiler,2025-10-22T05:41:40.741305
+Spampr,"A probot app to try label spammy pull requests, mainly focused towards reducing hacktoberfest spam PRs",code-quality,https://github.com/marketplace/spampr,2025-10-22T05:41:40.919856
+Catana TODO management,"The simplest way to manage developer annotations (TODO, FIXME...)",code-quality,https://github.com/marketplace/catana-todo-management,2025-10-22T05:41:41.197538
+JSON Linter,Automatic check of JSON files on GitHub,code-quality,https://github.com/marketplace/json-linter,2025-10-22T05:41:41.368127
+Code Genius Testing | React,Our app creates unit tests at the PR (Pull Request) time,code-quality,https://github.com/marketplace/code-genius-code-coverage,2025-10-22T05:41:41.547902
+Toodle.dev,Stop hitting snooze on todo comments track them as Github issues instead,code-quality,https://github.com/marketplace/toodle-dev,2025-10-22T05:41:43.093467
+Zscaler IaC Scan,Zscaler IaC scan App for GitHub enables developers to identify security misconfigurations in their Infrastructure-as-Code,code-quality,https://github.com/marketplace/zscaler-iac-scan,2025-10-22T05:41:43.207109
+QConnect App,Quality-aware developers' activity and productivity dashboard,code-quality,https://github.com/marketplace/qconnect-app,2025-10-22T05:41:43.373067
+Sidekick – Code Analysis,Your ally in the quest for clean code,code-quality,https://github.com/marketplace/sidekick-code-analysis,2025-10-22T05:41:43.546278
+Revelo Team Analytics,"Your tech team's key metrics, unleashed. 100% free",code-quality,https://github.com/marketplace/revelo-team-analytics,2025-10-22T05:41:43.725688
+Factotum by Rebecker,"Gather immersive intelligence from complex, highly dimensional data with the power of XR across devices",code-quality,https://github.com/marketplace/factotum-by-rebecker,2025-10-22T05:41:43.998266
+RazrooBot,Official Razroo Github Bot,code-quality,https://github.com/marketplace/razroobot,2025-10-22T05:41:44.364328
+Daisytuner,Catch performance bugs before they catch you,code-quality,https://github.com/marketplace/daisytuner,2025-10-22T05:41:44.889763
+Branchboard,Collaborative diagramming documentation for developers,code-quality,https://github.com/marketplace/branchboard,2025-10-22T05:41:45.217084
+Golang Code Scanner,Automated vulnerability Scanner,code-quality,https://github.com/marketplace/golang-code-scanner,2025-10-22T05:41:45.509957
+StructuredBot,"StructuredBot automates dbt reviews, aligning metrics and improving code quality for consistent, reliable business insights",code-quality,https://github.com/marketplace/structuredbot,2025-10-22T05:41:45.687400
+CoverPulse,Increase code coverage awareness. Lower production bugs,code-quality,https://github.com/marketplace/coverpulse,2025-10-22T05:41:45.978938
+Codety Official,"Comprehensive static code analysis solutions for identifying issues in source code, support 20+ programming languages",code-quality,https://github.com/marketplace/codety-official,2025-10-22T05:41:46.157076
+Buildkite Test Analytics,Real-time test tracking,code-quality,https://github.com/marketplace/buildkite-test-analytics,2025-10-22T05:41:47.743864
+schemata-app,"Beyond Validation, to Data Collaboration",code-quality,https://github.com/marketplace/schemata-app,2025-10-22T05:41:47.847076
+Todo PR Checker,Checks Pull Request changes for TODO style action items and reports them in a comment with embedded code snippets,code-quality,https://github.com/marketplace/todo-pr-checker,2025-10-22T05:41:47.950942
+buildnote-auth,Seamless documentation for your software delivery pipelines,code-quality,https://github.com/marketplace/buildnote-auth,2025-10-22T05:41:48.122783
+Commit Karma,Commit Karma calculates a users Pull Request to Code Review ratio and adds a PR Check noting the users Commit Karma rating,code-quality,https://github.com/marketplace/commit-karma,2025-10-22T05:41:48.296361
+Review My Code,AI-powered code review tool that enhances code quality and security to ensure safe development practices,code-quality,https://github.com/marketplace/raiden-safecodecore,2025-10-22T05:41:48.471617
+revive-code-bot,This bot is an automated tool designed to help maintain repositories,code-quality,https://github.com/marketplace/revive-code-bot,2025-10-22T05:41:48.821144
+FlakyTest.dev,Improve the reliability of your tests,code-quality,https://github.com/marketplace/flakytest-dev,2025-10-22T05:41:48.928476
+Veritum-AI,"AI-powered insights into code quality, complexity, and team performance from your GitHub PRs",code-quality,https://github.com/marketplace/veritum-ai,2025-10-22T05:41:49.079762
+buildnote,Seamless documentation for your software delivery pipelines,code-quality,https://github.com/marketplace/buildnote,2025-10-22T05:41:49.263609
+CyBench Explorer,Code and API Benchmark Platform for Developers and Performance Engineers,code-quality,https://github.com/marketplace/cybench-explorer,2025-10-22T05:41:49.503307
+Testkit Labs,Supercharge your testing with codeless testing for your web applications,code-quality,https://github.com/marketplace/testkit-labs,2025-10-22T05:41:49.650372
+BootGen,Starter Project Generator for ASP.NET 5 & Vue 3,code-quality,https://github.com/marketplace/bootgen,2025-10-22T05:41:49.828336
+Catwalk Code Creator,Catwalk is an opinionated MDD (Model Driven Design) code generator,code-quality,https://github.com/marketplace/catwalk-code-creator,2025-10-22T05:41:50.006741
+gitpod.io,"Always ready to code - Spin up fresh cloud development environments for each task, fully automated, in seconds",code-review,https://github.com/marketplace/gitpod-io,2025-10-22T05:41:52.665902
+Asana App for GitHub,The GitHub for Asana integration makes it easy to sync the status of work between technical and non-technical teams,code-review,https://github.com/marketplace/asana-app-for-github,2025-10-22T05:41:53.404735
+Graphite.dev,Code review for fast moving teams,code-review,https://github.com/marketplace/graphite-dev,2025-10-22T05:41:53.501475
+Review Notebook App,Code Review & Collaboration for Jupyter Notebooks,code-review,https://github.com/marketplace/review-notebook-app,2025-10-22T05:41:54.146020
+WIP,DO NOT MERGE – as a service,code-review,https://github.com/marketplace/wip,2025-10-22T05:41:54.314414
+Mergify,Pull requests automation service. Merge your pull requests faster with automatic merges and a merge queue,code-review,https://github.com/marketplace/mergify,2025-10-22T05:41:54.648845
+AccessLint,Find accessibility issues in your pull requests,code-review,https://github.com/marketplace/accesslint,2025-10-22T05:41:55.123381
+Hound,Automated code reviews,code-review,https://github.com/marketplace/hound,2025-10-22T05:41:56.801326
+Pull Assistant,Pull Assistant analyses pull requests and provides the optimal way to perform code reviews,code-review,https://github.com/marketplace/pull-assistant,2025-10-22T05:41:57.605602
+PullRequest,Expert On-Demand Code Review as a Service,code-review,https://github.com/marketplace/pullrequest,2025-10-22T05:41:57.778981
+GitClear,Review PRs up to 40% faster. Pinpoint highest tech debt directories. Most engineer-friendly Developer Analytic velocity stats,code-review,https://github.com/marketplace/gitclear,2025-10-22T05:41:57.857758
+Aviator,Automates merge workflows for Github,code-review,https://github.com/marketplace/mergequeue,2025-10-22T05:41:58.159282
+gitStream by LinearB,gitStream automates how code gets merged from the individual to the main branch with a clear set of repo-level rules,code-review,https://github.com/marketplace/gitstream-by-linearb,2025-10-22T05:41:58.500997
+Task list completed,PR check to make sure all tasklists / tick boxes are checked in the PR body,code-review,https://github.com/marketplace/task-list-completed,2025-10-22T05:41:58.959053
+Datadog,Connect your GitHub Account to Datadog to enable source code-related features and collect advanced telemetry. (US1 only),code-review,https://github.com/marketplace/datadog,2025-10-22T05:41:59.125349
+PullNotifier for Slack,The most efficient pull request notifications for Slack. Notify slack without getting spammed with notifications,code-review,https://github.com/marketplace/manta-pr-slack-notifier,2025-10-22T05:41:59.619474
+Veracode Workflow App,Automate scans at scale by using our Veracode app to orchestrate scans across your entire portfolio,code-review,https://github.com/marketplace/veracode-workflow-app,2025-10-22T05:41:59.787592
+Notebook Reviews Done Right,Review tool for Jupyter Notebooks,code-review,https://github.com/marketplace/gitnotebooks,2025-10-22T05:42:01.574334
+Pull Checklist,Enforce Engineering Standards at Scale,code-review,https://github.com/marketplace/pull-checklist,2025-10-22T05:42:01.680636
+PullApprove v3,Code review assignment and custom workflows for teams,code-review,https://github.com/marketplace/pullapprove,2025-10-22T05:42:01.854269
+Clayton for GitHub,Your complete Salesforce code reviewer,code-review,https://github.com/marketplace/clayton-for-github,2025-10-22T05:42:02.032770
+Bunnyshell,"Bunnyshell automates production-like environments for each pull request, enhancing testing and feedback efficiency for devs",code-review,https://github.com/marketplace/bunnyshell,2025-10-22T05:42:02.220750
+ODIN,Audit your smart contract files automatically within a blink,code-review,https://github.com/marketplace/sooho-odin,2025-10-22T05:42:02.846925
+GitView,"Git analytics. Alternative to GitPrime, Pluralsight Flow, Code Climate Velocity, Waydev, Git Prime, LinearB, Gitclear",code-review,https://github.com/marketplace/gitview-insights,2025-10-22T05:42:03.153361
+DryRun Security,Spot risky code changes before they merge. Scale your AppSec program's impact with real-time insights,code-review,https://github.com/marketplace/dryrun-security-app,2025-10-22T05:42:03.325639
+Commit Graph,"See all of your branches and tags at once! Similar to ""git log --graph --date-order --all""",code-review,https://github.com/marketplace/commit-graph-by-mergebase,2025-10-22T05:42:03.630506
+Enlightn for Laravel,"Scan Laravel app pull requests for security flaws, performance issues and code smells",code-review,https://github.com/marketplace/enlightn-for-laravel,2025-10-22T05:42:03.751413
+revuers,Peer code review tool for programming courses,code-review,https://github.com/marketplace/revuers,2025-10-22T05:42:03.903762
+Sturdy Devtools,Real-time code collaboration for teams,code-review,https://github.com/marketplace/sturdy-devtools,2025-10-22T05:42:04.395226
+Naming Conventions Bot,"Automatically validates pull requests, branches and commit messages in your Github repositories",code-review,https://github.com/marketplace/naming-conventions-bot,2025-10-22T05:42:05.884848
+Apiiro Application Security Platform,"Proactively fix open source, Infra-as-Code & API vulnerabilities, secrets, PII exposure & architecture drift",code-review,https://github.com/marketplace/apiiro-application-security-platform,2025-10-22T05:42:06.063679
+CodeKickBot,Pull Request reminders for Slack,code-review,https://github.com/marketplace/pull-metrics,2025-10-22T05:42:06.245778
+Viezly,Visualize file dependencies and split big code changes,code-review,https://github.com/marketplace/viezly,2025-10-22T05:42:06.423682
+Softagram,Speed up pull request reviews with Softagram analysis. Clear visualization of the change and its impact on your codebase,code-review,https://github.com/marketplace/softagram,2025-10-22T05:42:06.602993
+DepChecker Bot,Find and fix npm dependency issues during code reviews,code-review,https://github.com/marketplace/depchecker-bot,2025-10-22T05:42:07.132398
+Recurse ML,Find bugs that tests and static analysers miss,code-review,https://github.com/marketplace/recurse-ml,2025-10-22T05:42:07.829134
+AppMap,Runtime Code Review,code-review,https://github.com/marketplace/get-appmap,2025-10-22T05:42:08.066711
+Pull Request Checklist Buddy,"Automate task checklists or default tasks for pull requests. Configuration is simple, file-based, and low-maintenance",code-review,https://github.com/marketplace/pull-request-checklist-buddy,2025-10-22T05:42:08.245914
+Kaizen Bot,Find all bugs and fix them using kaizen,code-review,https://github.com/marketplace/kaizen-bot,2025-10-22T05:42:08.423963
+Dpulls,Mark a pull request as depending on another,code-review,https://github.com/marketplace/dpulls,2025-10-22T05:42:08.607202
+In Solidarity,Add inclusive language status checks and annotations,code-review,https://github.com/marketplace/in-solidarity,2025-10-22T05:42:08.782412
+PRLint Reloaded,Validate PR titles and other metadata using regular expressions,code-review,https://github.com/marketplace/prlintreloaded,2025-10-22T05:42:08.902274
+Pullwalla,Stay on top of pull requests with Pullwalla - your unified pull request manager,code-review,https://github.com/marketplace/pullwalla,2025-10-22T05:42:10.993681
+MergEase,"Improved diff tool! Makes manual code reviews faster, displays moved code blocks and highlights only the real code changes",code-review,https://github.com/marketplace/mergease,2025-10-22T05:42:11.168375
+Vizipi,See whats missing from you Pullrequest and who's the most knowledgeable reviewer,code-review,https://github.com/marketplace/vizipi,2025-10-22T05:42:11.344355
+StarChart Labs | Chronicler,Enforce change log updates in pull requests,code-review,https://github.com/marketplace/starchart-labs-chronicler,2025-10-22T05:42:11.529746
+Mokuren for GitHub,Open GitHub Issues in the sidebar,code-review,https://github.com/marketplace/mokuren-for-github,2025-10-22T05:42:11.890911
+Contour Documentation,Contour makes it easy for developers to write documentation that always stays up to date,code-review,https://github.com/marketplace/contour-documentation,2025-10-22T05:42:12.733349
+Allstacks Analytics,Allstacks Analytics Platform helps you build software better,code-review,https://github.com/marketplace/allstacks-analytics,2025-10-22T05:42:12.840364
+Automate Branch Rules,Bulk update the branch protection rules for 1 or all repositories across the organizations in one go,code-review,https://github.com/marketplace/automate-branch-rules,2025-10-22T05:42:13.433236
+Globalyzer i18n Express,Globalyzer is used by many global technology companies to find and fix i18n issues before localization and testing,code-review,https://github.com/marketplace/globalyzer-express,2025-10-22T05:42:13.602295
+"sbom.sh - Easy creating, vuln scanning and sharing of SBOMs.",sbom.sh - Simplify SBOM Management and sharing incl. vuln-scanning with GitHub Actions,code-review,https://github.com/marketplace/sbom-sh-easy-creating-vuln-scanning-and-sharing-of-sboms,2025-10-22T05:42:15.405231
+Precaution,Find and fix potential security vulnerabilities in your code,code-review,https://github.com/marketplace/precaution,2025-10-22T05:42:15.591498
+Loom GIF Previews,Automatically expands Loom URLs into animated GIF previews in Pull Request and Issue bodies,code-review,https://github.com/marketplace/loom-gif-previews,2025-10-22T05:42:16.169142
+Pull Request Auto Labeler,A GitHub bot to label PRs automatically based on title and body against list of defined labels,code-review,https://github.com/marketplace/pull-request-auto-labeler,2025-10-22T05:42:16.682569
+PullNotify,"Improved review dashboards, team statistics and realtime Slack notifications",code-review,https://github.com/marketplace/pullnotify,2025-10-22T05:42:16.858677
+PR Valet,Automatically merge your pull requests when all tests have passed,code-review,https://github.com/marketplace/pr-valet,2025-10-22T05:42:17.380705
+Submit Queue,Block PR merges until base branch is green,code-review,https://github.com/marketplace/submit-queue,2025-10-22T05:42:17.562345
+Announcement Drafter,A bot for drafting and publishing new GitHub discussions using pull requests,code-review,https://github.com/marketplace/repo-st,2025-10-22T05:42:17.932329
+DontMergeMeYet,"Adds an ""in progress"" status on a pull request to avoid merging it prematurely",code-review,https://github.com/marketplace/dontmergemeyet,2025-10-22T05:42:18.147795
+otto JavaScript Security,Protect your application from client-side attacks and 3rd-party vulnerabilities,code-review,https://github.com/marketplace/otto-client-side-security,2025-10-22T05:42:19.648128
+Paul The Alien,Paul is a Github Bot that helps with your Git workflows,code-review,https://github.com/marketplace/paul-the-alien,2025-10-22T05:42:19.825441
+Check Group,Groups CI checks based on sub-projects for monorepo projects,code-review,https://github.com/marketplace/check-group,2025-10-22T05:42:20.009241
+Lightspin IaC,"Scan IaC in your repository to detect security issues, prioritize risks, and prevent risky configurations before deployment",code-review,https://github.com/marketplace/lightspin-iac,2025-10-22T05:42:20.128782
+Today I learned (TIL),Capture useful coding tricks from pull request views,code-review,https://github.com/marketplace/today-i-learned-til,2025-10-22T05:42:20.417916
+butterb0t,butterb0t automatically add your deploy url to every pull request,code-review,https://github.com/marketplace/butterb0t,2025-10-22T05:42:20.584990
+Review Dino,PR reviews reminder for teams,code-review,https://github.com/marketplace/review-dino,2025-10-22T05:42:20.751281
+Reviewly,Create take-home projects that you send to your job candidates that simulate real work,code-review,https://github.com/marketplace/reviewly,2025-10-22T05:42:21.113784
+Keploy Navigator,"The GitHub bot that automates testing, in your codebase",code-review,https://github.com/marketplace/keploy-navigator,2025-10-22T05:42:21.456855
+PR Code Reviewer,AI assisted code reviews - with special focus on idiomatic code in your prefered language,code-review,https://github.com/marketplace/pr-code-reviewer,2025-10-22T05:42:21.629041
+Rezensent App,The app splits pull requests into multiple smaller ones for easier reviews,code-review,https://github.com/marketplace/rezensent-app,2025-10-22T05:42:22.140069
+Friendly Fire Pull Requests,"Assign code reviewers, notify them via Slack directly, send out reminders, and configure reviewer file patterns",code-review,https://github.com/marketplace/friendly-fire-pr-assignment,2025-10-22T05:42:22.647759
+Vulnetix,Effortless Vulnerability Management Automation,code-review,https://github.com/marketplace/vulnetix,2025-10-22T05:42:22.812378
+Aspect Workflows,Aspect Workflows GitHub App delivers build and test results directly to pull requests,code-review,https://github.com/marketplace/aspect-workflows-bot,2025-10-22T05:42:24.203804
+Sprkl Reviewer,Shorten code reviews. Get a clear view of your Pull Request context and impact before reading a single line of code,code-review,https://github.com/marketplace/sprkl-reviewer,2025-10-22T05:42:24.324193
+Diffy - Enhanced Jupyter Notebook Diffs and Reviews,Intuitive diffs and reviews for Jupyter Notebooks,code-review,https://github.com/marketplace/diffy-notebook-reviews,2025-10-22T05:42:24.498602
+FixCache,Track bug-prone files from git commit history,code-review,https://github.com/marketplace/fixcache,2025-10-22T05:42:25.026205
+WIP App,WIP App is a fork of WIP which allows developers to block merging of pull requests containing WIP in the title,code-review,https://github.com/marketplace/wip-app,2025-10-22T05:42:25.203050
+CodeSync Playback,"Modernizing code management, we blend playback tech with IDE convenience for a groundbreaking approach to code reviews",code-review,https://github.com/marketplace/codesync-playback,2025-10-22T05:42:25.373308
+GStraccini-bot,"Automate GitHub flows for pull request, comments and issues",code-review,https://github.com/marketplace/gstraccini-bot,2025-10-22T05:42:25.559794
+badging-bot,A GitHub App that helps to coordinate the workflow of the D&I Badging by CHAOSSProj,code-review,https://github.com/marketplace/badging-bot,2025-10-22T05:42:25.729504
+TakeMyApproval,a bot that automatically adds a GIF to your PR whenever it gets an approval ✅,code-review,https://github.com/marketplace/takemyapproval,2025-10-22T05:42:26.371988
+sweetr.dev,Git Analytics and DX Automations,code-review,https://github.com/marketplace/sweetr-dev,2025-10-22T05:42:26.726237
+State Backed Machine Visualizer,Add PR comments visualizing added or changed XState state machines,code-review,https://github.com/marketplace/state-backed-machine-visualizer,2025-10-22T05:42:26.887558
+DevTodoS,Never Miss a Todo Comment Again,code-review,https://github.com/marketplace/devtodos,2025-10-22T05:42:27.053005
+pairbot,"Close more issues, ship more features, and pair program with others",code-review,https://github.com/marketplace/pairbot,2025-10-22T05:42:27.399865
+PhantomCop,Show bugs in Pull Request review,code-review,https://github.com/marketplace/phantomcop,2025-10-22T05:42:29.256689
+2review.app,Lists pull requests awaiting your review,code-review,https://github.com/marketplace/2review-app,2025-10-22T05:42:29.434365
+Pull Request Size Labels and Jira Links,"Automatically label your Pull Requests by Size, Code Review Actions and also link Jira",code-review,https://github.com/marketplace/size-labels-and-jira-links,2025-10-22T05:42:30.161629
+Gravity CI,Gravity monitors build artifact sizes to prevent accidental increases – right in your CI pipeline,code-review,https://github.com/marketplace/gravity-ci,2025-10-22T05:42:30.425176
+Review Lens,Visual Feedback For UI Reviews,code-review,https://github.com/marketplace/review-lens,2025-10-22T05:42:31.255385
+Rapticore Cloud,IaC code review and remediation,code-review,https://github.com/marketplace/rapticore-cloud,2025-10-22T05:42:32.127274
+Uncode Review,PR notifications and insights that your team won't mute,code-review,https://github.com/marketplace/uncode-review,2025-10-22T05:42:33.486735
+Sentinelus,The ready-made integration for your github project that will help you improve the quality and reliability of your,code-review,https://github.com/marketplace/sentinelus,2025-10-22T05:42:34.296113
+runprbot,"Automate Pull Request sharing in Slack, keep them in sync, and much more",code-review,https://github.com/marketplace/runprbot,2025-10-22T05:42:34.434847
+RemindersBot,This bot reminds you about PRs & Issues (when you ask it to),code-review,https://github.com/marketplace/remindersbot,2025-10-22T05:42:34.718254
+Prizm Pulse,GitHub app for DQLabs that tracks impacted assets on PR merge by analyzing model changes for lineage and root cause analysis,code-review,https://github.com/marketplace/prizm-pulse,2025-10-22T05:42:35.064285
+BlueOptima Secrets Detection,Auto-scan every PR for secrets—stay secure without leaving GitHub,code-review,https://github.com/marketplace/blueoptima-secrets-detection,2025-10-22T05:42:35.147654
+PRHero,A better way to review pull requests,code-review,https://github.com/marketplace/prhero,2025-10-22T05:42:35.258501
+Cloud Browser,Cloud-enabled shared browser session,code-review,https://github.com/marketplace/cloud-browser,2025-10-22T05:42:35.389531
+OneSidebar,"OneSidebar is a browser extension for navigating GitHub, with a sidebar",code-review,https://github.com/marketplace/onesidebar,2025-10-22T05:42:35.561739
+lancer-extension,For allowing the lancer extension to merge pull requests,code-review,https://github.com/marketplace/lancer-extension,2025-10-22T05:42:35.734131
+Bridgecrew,"Find and fix security and compliance issues in Terraform, AWS Cloudformation, ARM templates, Kubernetes, and more",code-scanning-ready,https://github.com/marketplace/bridgecrew,2025-10-22T05:42:37.607077
+Prisma Cloud Code Security,"A single tool for securing IaC, container images and open source software across all modern architectures and software supply",code-scanning-ready,https://github.com/marketplace/prisma-cloud-code-security,2025-10-22T05:42:37.789076
+Accurics,Detect policy violations across Infrastructure as Code and programmatically fix them with automated pull requests,code-scanning-ready,https://github.com/marketplace/accurics,2025-10-22T05:42:37.860334
+Data Theorem (SAST),Find & fix security vulnerabilities as code is written,code-scanning-ready,https://github.com/marketplace/data-theorem-sast,2025-10-22T05:42:37.964911
+Kodem Security,Simpler AppSec awaits you,code-scanning-ready,https://github.com/marketplace/kodem-security,2025-10-22T05:42:38.141431
+Resourcely Inc,Resourcely helps businesses create secure-by-default infrastructure resources and prevents security misconfigurations,code-scanning-ready,https://github.com/marketplace/resourcely-inc,2025-10-22T05:42:38.490932
+cobrella,The code analysis tool for the python language,code-scanning-ready,https://github.com/marketplace/cobrella,2025-10-22T05:42:38.768106
+Leet Hub,LeetHub is a chrome extension that automatically pushes your code to GitHub when you solve any Leetcode problem,code-search,https://github.com/marketplace/leet-hub,2025-10-22T05:42:40.595527
+CodeHub-Extension,CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub,code-search,https://github.com/marketplace/codehub-extension,2025-10-22T05:42:40.922328
+Samlook Crypto,Samlook full Stark dev,code-search,https://github.com/marketplace/samlook-crypto,2025-10-22T05:42:41.097366
+committrs.io,committrs,code-search,https://github.com/marketplace/committrs-io,2025-10-22T05:42:41.815765
+PingSafe,Cloud Security Loaded with Hacker Intelligence,code-search,https://github.com/marketplace/pingsafe-ai,2025-10-22T05:42:41.996958
+Google Cloud Build,"Build, test, & deploy in a fast, consistent, and secure manner",container-ci,https://github.com/marketplace/google-cloud-build,2025-10-22T05:42:43.924583
+webapp.io,Full-stack review environments and end-to-end tests embedded into every pull request,container-ci,https://github.com/marketplace/layer-ci,2025-10-22T05:42:44.075831
+Cirrus CI,Enjoy unlimited concurrency for fast and secure development cycle,container-ci,https://github.com/marketplace/cirrus-ci,2025-10-22T05:42:44.257197
+GradientCI,GradientCI: Add a simple config file to your GitHub repo to train ML models directly from git commits,container-ci,https://github.com/marketplace/gradientci,2025-10-22T05:42:44.433064
+Jetify Cloud,Spin up a cloud development environment on the edge in seconds. Deploy to Jetify Cloud with 1-click,container-ci,https://github.com/marketplace/devbox-cloud,2025-10-22T05:42:44.614774
+Faable Deploy,"Fast deployment and hosting for Node.js. Compatible with Express and Fastify, connect your repository and enjoy",container-ci,https://github.com/marketplace/faable-cloud,2025-10-22T05:42:44.728329
+FlexStack,"Build, deploy, and iterate on AWS 10x faster",container-ci,https://github.com/marketplace/flexstack,2025-10-22T05:42:44.908461
+harpoon.io,No/Low Code Kubernetes,container-ci,https://github.com/marketplace/harpoon-io,2025-10-22T05:42:45.255391
+CircleCI,"Automatically build, test, and deploy your project in minutes",continuous-integration,https://github.com/marketplace/circleci,2025-10-22T05:42:47.092294
+Travis CI,Test and deploy with confidence,continuous-integration,https://github.com/marketplace/travis-ci,2025-10-22T05:42:47.270966
+Azure Pipelines,"Continuously build, test, and deploy to any platform and cloud",continuous-integration,https://github.com/marketplace/azure-pipelines,2025-10-22T05:42:47.449761
+AWS Connector for GitHub,"Enables AWS services to get notified on repository events, and download source code to build, test and deploy",continuous-integration,https://github.com/marketplace/aws-connector-for-github,2025-10-22T05:42:47.801526
+Azure Pipelines (OAuth),"Continuously build, test, and deploy to any platform and cloud",continuous-integration,https://github.com/marketplace/azure-pipelines-oauth,2025-10-22T05:42:47.871978
+Shopify,"Build themes and headless faster with Shopify for GitHub. Connect any repository, then push to deploy",continuous-integration,https://github.com/marketplace/shopify-online-store,2025-10-22T05:42:48.009764
+Codemagic CI/CD,"Cloud-based continuous integration and delivery for Android, iOS, Flutter, React Native, Ionic and Unity projects",continuous-integration,https://github.com/marketplace/codemagic-ci-cd,2025-10-22T05:42:48.191594
+Official Nx Cloud App,An AI-first build platform that connects everything from your editor to CI,continuous-integration,https://github.com/marketplace/official-nx-cloud-app,2025-10-22T05:42:48.371790
+AppVeyor,"Cloud service for building, testing and deploying Windows apps",continuous-integration,https://github.com/marketplace/appveyor,2025-10-22T05:42:48.543839
+Bitrise,Bitrise Checks brings Bitrise's mobile CICD into GitHub: Kick off workflows and see build results right there,continuous-integration,https://github.com/marketplace/bitrise-checks,2025-10-22T05:42:48.714391
+Qovery,Test and Release Features 4x Faster with On-demand Environments,continuous-integration,https://github.com/marketplace/qovery,2025-10-22T05:42:48.827757
+IONOS Deploy Now,Deploy sites and apps instantly via GitHub Actions to IONOS infrastructure,continuous-integration,https://github.com/marketplace/ionos-deploy-now,2025-10-22T05:42:49.089830
+Codefresh,"A modern container-based CI/CD platform, easily assemble and run pipelines with high performance",continuous-integration,https://github.com/marketplace/codefresh,2025-10-22T05:42:49.258411
+spacelift.io,Spacelift is a sophisticated and compliant infrastructure delivery platform for infrastructure as code,continuous-integration,https://github.com/marketplace/spacelift-io,2025-10-22T05:42:49.620207
+Mend Bolt,Detect open source vulnerabilities in real time with suggested fixes for quick remediation,continuous-integration,https://github.com/marketplace/whitesource-bolt,2025-10-22T05:42:49.966716
+Appcircle Mobile CI/CD,Appcircle is a mobile CI/CD platform that provides a fully automated environment to manage mobile app lifecycle end-to-end,continuous-integration,https://github.com/marketplace/appcircle-mobile-ci-cd,2025-10-22T05:42:51.755725
+Localazy,Manage your i18n and localization needs from one place with Localazy ®,continuous-integration,https://github.com/marketplace/localazy,2025-10-22T05:42:51.934353
+Semantic Pull Requests,Write semantic commit messages and let the robots do the versioning and releasing,continuous-integration,https://github.com/marketplace/semantic-pull-requests,2025-10-22T05:42:52.476833
+Restack AI,"Automatically build, test and deploy your Restack AI applications",continuous-integration,https://github.com/marketplace/restack-ci-cd,2025-10-22T05:42:52.646742
+GuardRails,GuardRails provides continuous security feedback for modern development teams,continuous-integration,https://github.com/marketplace/guardrails,2025-10-22T05:42:52.815728
+Flightcontrol Platform,Developer-first AWS infrastructure,continuous-integration,https://github.com/marketplace/flightcontrol-platform,2025-10-22T05:42:52.886772
+BuildJet,Managed high-performance runners for Github Actions,continuous-integration,https://github.com/marketplace/buildjet,2025-10-22T05:42:53.029881
+scalr.io,Centralize Terraform administration while decentralizing operations,continuous-integration,https://github.com/marketplace/scalr-io,2025-10-22T05:42:53.225773
+Squash.io,On Demand & One-Click Test Environments for Web Apps and Microservices,continuous-integration,https://github.com/marketplace/squash-io,2025-10-22T05:42:53.917600
+Merge Freeze,Better control over pull request merges and deploys,continuous-integration,https://github.com/marketplace/merge-freeze,2025-10-22T05:42:54.048638
+"Flagsmith: Feature Flags, Remote Config and AB Testing Service","Manage feature flags across web, mobile and server side application",continuous-integration,https://github.com/marketplace/bullet-train-feature-flags,2025-10-22T05:42:54.224425
+Testspace.com,"Test Management software for DevOps, including CI Results Dashboard, Manual Test Case Management, and Exploratory testing",continuous-integration,https://github.com/marketplace/testspace-com,2025-10-22T05:42:54.740368
+Deliverybot,"Deploy your code using GitHub API's. Automatic deployments, PR deployments and integrations for any service",continuous-integration,https://github.com/marketplace/deliverybot,2025-10-22T05:42:56.386951
+Semantic PRs,Check that pull requests follow the Conventional Commits spec,continuous-integration,https://github.com/marketplace/semantic-prs,2025-10-22T05:42:56.567190
+Check Run Reporter,"See your test and style results without leaving GitHub. Works with any CI service. Supports JUnit, Checkstyle, and more",continuous-integration,https://github.com/marketplace/check-run-reporter,2025-10-22T05:42:56.743400
+Buddy,One-click delivery automation for Web Developers,continuous-integration,https://github.com/marketplace/buddy,2025-10-22T05:42:57.213250
+Cirun.io,"GitHub Actions on your Cloud - Run Self-Hosted Runners on AWS, GCP, Azure, DigitalOcean, Oracle or OpenStack",continuous-integration,https://github.com/marketplace/cirun-io,2025-10-22T05:42:57.747442
+unmock,"Unmock helps you organize mocks (fixtures) for your HTTP(S) calls, speeding up development and increasing resiliency",continuous-integration,https://github.com/marketplace/unmock,2025-10-22T05:42:58.090726
+Packit-as-a-Service,A service which helps you integrate your upstream GitHub project into Fedora ecosystem,continuous-integration,https://github.com/marketplace/packit-as-a-service,2025-10-22T05:42:58.449877
+mabl bot,Intelligent end-to-end application testing,continuous-integration,https://github.com/marketplace/mabl-bot,2025-10-22T05:42:58.811531
+RubyCI - CI/CD for Ruby on Rails,Fastest and feature rich Ruby on Rails focused CI/CD,continuous-integration,https://github.com/marketplace/rubyci,2025-10-22T05:42:58.928203
+Jit Security,The Only Open DevSecOps Orchestration Platform,continuous-integration,https://github.com/marketplace/jit-security,2025-10-22T05:42:59.038447
+Foresight,See you later on the other side,continuous-integration,https://github.com/marketplace/thundra-foresight,2025-10-22T05:42:59.199504
+Deploybot-app,Manage and automate Github Deployments across repos and organizations,continuous-integration,https://github.com/marketplace/deploybot-app,2025-10-22T05:42:59.375855
+BuildPulse,"Automatically detect, track, and rank flaky tests so you can regain trust in your test suite",continuous-integration,https://github.com/marketplace/buildpulse,2025-10-22T05:43:01.092352
+Emerge Tools,"Monitor & optimize mobile app performance, get alerted of regressions before they reach your users",continuous-integration,https://github.com/marketplace/emerge-tools,2025-10-22T05:43:01.262504
+Stacktape AWS deployments,"97 % of AWS capabilities, 3% complexity",continuous-integration,https://github.com/marketplace/stacktape-aws-deployments,2025-10-22T05:43:02.482573
+Fire CI,Turn your team laptops into a farm of Docker based CI servers,continuous-integration,https://github.com/marketplace/fire-ci,2025-10-22T05:43:02.809914
+AWS Connector for Europe (Milan),"Enables AWS services to get notified on repository events, and download source code to build, test and deploy",continuous-integration,https://github.com/marketplace/aws-connector-for-europe-milan,2025-10-22T05:43:02.882146
+JFrog App for GitHub,"The JFrog GitHub App automates repo setup, scanning & security to boost velocity with enterprise-grade compliance in GitHub",continuous-integration,https://github.com/marketplace/jfrog-for-github,2025-10-22T05:43:03.036212
+Pika,Build Better NPM Packages,continuous-integration,https://github.com/marketplace/pika-ci-cd,2025-10-22T05:43:03.151066
+GitHint Bot,GitHint ensures that your pull requests follow specified conventions,continuous-integration,https://github.com/marketplace/githint-bot,2025-10-22T05:43:03.305069
+Semantic PR Title,Verifies PR title complies with Angular commit convention standard (or custom regex),continuous-integration,https://github.com/marketplace/semantic-pr-title,2025-10-22T05:43:03.429983
+Configure Azure Settings,"Configure your repository to host, build and deploy its contents to Microsoft Azure, all with a few lines of yaml",continuous-integration,https://github.com/marketplace/configure-azure-settings,2025-10-22T05:43:03.751374
+Indiecrew Integration,"Streamline Minecraft plugin and mod development with automated builds, testing, and deployment workflows. Built for GitHub",continuous-integration,https://github.com/marketplace/indiecrew-integration,2025-10-22T05:43:03.902751
+seriesci,Time Series Data for Continuous Integration,continuous-integration,https://github.com/marketplace/series-ci,2025-10-22T05:43:04.011799
+gobencher,Continuous benchmarking for the Go programming language,continuous-integration,https://github.com/marketplace/gobencher,2025-10-22T05:43:05.500969
+Buildalon,"Build, test, and deploy Unity apps",continuous-integration,https://github.com/marketplace/buildalon,2025-10-22T05:43:05.740870
+Extant DevSecOps,Speed up your remediation cycles for security vulnerabilities with Extant DevSecOps pipeline tools,continuous-integration,https://github.com/marketplace/extant-devsecops,2025-10-22T05:43:05.943071
+AWS Connector for GovCloud,"Enables AWS services to get notified on repository events, and download source code to build, test and deploy",continuous-integration,https://github.com/marketplace/aws-connector-for-govcloud,2025-10-22T05:43:06.137224
+Screenshotbot,Get notified when screenshots of your app changes,continuous-integration,https://github.com/marketplace/screenshotbot,2025-10-22T05:43:06.313071
+"Lang CI [alpha, seeking feedback]",AI agent to help you fix GitHub Actions workflows,continuous-integration,https://github.com/marketplace/treebeard-build,2025-10-22T05:43:06.480997
+OpsMaru,GitHub integration for opsmaru.com,continuous-integration,https://github.com/marketplace/upmaru-instellar,2025-10-22T05:43:06.656808
+scanoss.app,SCANOSS detects undeclared OSS components in your commits,continuous-integration,https://github.com/marketplace/scanoss-app,2025-10-22T05:43:07.002928
+IntelliJ CI Dashboard,Manage your GitHub actions from you Intellij IDE,continuous-integration,https://github.com/marketplace/intellij-ci-dashboard,2025-10-22T05:43:07.170502
+side8 pipeline,AWS CloudFormation CI/CD,continuous-integration,https://github.com/marketplace/side8-pipeline,2025-10-22T05:43:07.275847
+GitPause,Don't let bugs slip into your production - define code freeze periods for your codebase and automate them,continuous-integration,https://github.com/marketplace/gitpause,2025-10-22T05:43:07.436027
+Flaptastic,Manage flaky unit tests. Click a checkbox to instantly disable any test on all branches. Works with your current test suite,continuous-integration,https://github.com/marketplace/flaptastic,2025-10-22T05:43:07.606849
+Ship | Build Monitoring,Elegant desktop + menu bar app to monitor CI/CD builds,continuous-integration,https://github.com/marketplace/shipapp-io,2025-10-22T05:43:07.782826
+NCM - NodeSource,NCM integration for GitHub securing your Pull Requests and Deployments,continuous-integration,https://github.com/marketplace/ncm-nodesource,2025-10-22T05:43:08.012190
+Test Check Publisher,Continuous integration unit test publisher for annotating commits with results using the checks API from 3rd party CI systems,continuous-integration,https://github.com/marketplace/test-check-publisher,2025-10-22T05:43:08.198252
+Mosaic AI Integration,Mosaic is the AI-Powered workforce management software that is radically changing how companies are operated,continuous-integration,https://github.com/marketplace/mosaic-ai-integration,2025-10-22T05:43:08.378201
+jile-github,Connect GitHub with Jile,continuous-integration,https://github.com/marketplace/jile-github,2025-10-22T05:43:08.552816
+Garnet Secrets Scanner (deprecated),"Real-time secrets detection, alerting and remediation in your PRs",continuous-integration,https://github.com/marketplace/garnet-scanner,2025-10-22T05:43:10.121308
+ocaml-benchmarks,Benchmarking for Ocaml projects,continuous-integration,https://github.com/marketplace/ocaml-benchmarks,2025-10-22T05:43:10.278571
+Endevor® Bridge for Git by Broadcom,Use Git to work on Mainframe applications managed in Endevor®. Contact Broadcom to get started,continuous-integration,https://github.com/marketplace/ca-endevor-bridge-for-git,2025-10-22T05:43:10.448279
+CommentAgent,A GitHub bot to trigger a configured GitHub action based on found text in a comment from an authorized user,continuous-integration,https://github.com/marketplace/commentagent,2025-10-22T05:43:10.618453
+CICube - AI DevOps Agents,AI DevOps Platform for Enterprise Devops Teams,continuous-integration,https://github.com/marketplace/cicube-github-actions-monitoring,2025-10-22T05:43:10.966223
+VisWiz.io,Visual Regression Testing as a Service,continuous-integration,https://github.com/marketplace/viswiz-io,2025-10-22T05:43:11.318705
+Test KC,Test,continuous-integration,https://github.com/marketplace/azure-oidc-test,2025-10-22T05:43:11.422153
+Run RSpec commands,"Each time that new code is pushed into your repo, you can have a RSpec command automatically run",continuous-integration,https://github.com/marketplace/run-rspec-commands,2025-10-22T05:43:11.587436
+Buildless,Lightning fast build caching,continuous-integration,https://github.com/marketplace/buildless,2025-10-22T05:43:11.947457
+TestRecall,"Analytics for your test suites. Use data to dive insight for your testing strategy,",continuous-integration,https://github.com/marketplace/testrecall,2025-10-22T05:43:12.291131
+Faster CI,"Fast, Secure and Economical runners for GitHub Actions",continuous-integration,https://github.com/marketplace/faster-ci,2025-10-22T05:43:12.469171
+Poe,Release Management,continuous-integration,https://github.com/marketplace/poe-engineer,2025-10-22T05:43:12.646567
+Weaverse,Take your Shopify storefronts to the next level with Weaverse for Github - the first Hydrogen-driven website builder,continuous-integration,https://github.com/marketplace/weaverse,2025-10-22T05:43:12.803824
+Monopolis (beta),Makes monorepo management easier for teams by automating best practices,continuous-integration,https://github.com/marketplace/monopolis-cloud,2025-10-22T05:43:13.028343
+Managed DevOps Pools,Managed DevOps Pools is an service that offers hosted-on-behalf-of compute for running your GitHub Actions,continuous-integration,https://github.com/marketplace/managed-devops-pools,2025-10-22T05:43:14.900499
+PLT Hardware CI,Continuous Integration for your hardware products,continuous-integration,https://github.com/marketplace/plt-hardware-ci,2025-10-22T05:43:15.077563
+GRGate,Autopublish draft releases based on commit status (aka checks),continuous-integration,https://github.com/marketplace/grgate,2025-10-22T05:43:15.250879
+OctodroidBuildService,This app is a rolling-release distribution of Octodroid (unofficial open-source Github client for Android devices),continuous-integration,https://github.com/marketplace/octodroidbuildservice,2025-10-22T05:43:15.898620
+Rultor.com,"GitHub chatbot to merge, deploy, and release your repositories",continuous-integration,https://github.com/marketplace/rultor-com,2025-10-22T05:43:15.985816
+Pandium,Release and manage your app’s integrations on Pandium,continuous-integration,https://github.com/marketplace/pandium,2025-10-22T05:43:16.156996
+SatoriCI,Automated testing of software and system to assert their behavior,continuous-integration,https://github.com/marketplace/satorici,2025-10-22T05:43:16.329776
+Cypress Image Diff,Free visual testing tool that provides a comprehensive overview of differences in appearance,continuous-integration,https://github.com/marketplace/cypress-image-diff,2025-10-22T05:43:16.505828
+Runnex.dev,Managed high-performance runners for Github Actions,continuous-integration,https://github.com/marketplace/runnex-dev,2025-10-22T05:43:16.859554
+Workflow Generator GitHub Actions,Generate GitHub Actions Workflows in seconds for your project,continuous-integration,https://github.com/marketplace/gawg-workflow-generator,2025-10-22T05:43:17.028452
+Package V,Automate the npm package versioning and publishing in github registry,continuous-integration,https://github.com/marketplace/package-v,2025-10-22T05:43:17.203085
+Gitlights Actions Analytics,Dashboards and metrics to understand and optimize your GitHub Actions workflows,continuous-integration,https://github.com/marketplace/gitlights-actions-analytics,2025-10-22T05:43:17.376018
+BuildBuddy.io,BuildBuddy is enterprise Bazel — the open source build system that allows you to build and test software 10x faster,continuous-integration,https://github.com/marketplace/buildbuddy-io,2025-10-22T05:43:17.507062
+CAST Highlight GitHub Automator,Automation tool to clone repositories locally,continuous-integration,https://github.com/marketplace/gitrepofetcher,2025-10-22T05:43:17.813212
+pippy app,create configurable pipelines using github action workflows,continuous-integration,https://github.com/marketplace/pippy-app,2025-10-22T05:43:19.173804
+Puaro Security,Secure your code today,continuous-integration,https://github.com/marketplace/puaro-security,2025-10-22T05:43:19.317937
+Rapido Companion for Salesforce DevOps,Salesforce DevOps from your changeset page - for Admins and Consultants,continuous-integration,https://github.com/marketplace/rapido-companion-for-salesforce-devops,2025-10-22T05:43:19.486808
+build2 stage CI,Trigger build2 stage CI on branch push and pull request,continuous-integration,https://github.com/marketplace/build2-stage-ci,2025-10-22T05:43:19.755561
+Get Snappy,Visual Regression testing for web applications,continuous-integration,https://github.com/marketplace/get-snappy,2025-10-22T05:43:19.930083
+CPods Falcon,CPods Falcon is DevOps offering for easy ML Ops,continuous-integration,https://github.com/marketplace/cpods_oauth,2025-10-22T05:43:20.101562
+My Acclaro Translations,Submit source content for localization to Acclaro and receive translations in GitHub through commits and pull requests,continuous-integration,https://github.com/marketplace/my-acclaro-translations,2025-10-22T05:43:20.273459
+Cloud 66 Skycap,Skycap is a container native CI/CD tool,continuous-integration,https://github.com/marketplace/cloud-66-skycap,2025-10-22T05:43:20.393816
+Percy,Automated visual review platform,continuous-integration,https://github.com/marketplace/percy,2025-10-22T05:43:20.574754
+Indeema Tambo,Solution for web developers and DevOps to automize and speedup server setup process,continuous-integration,https://github.com/marketplace/indeema-tambo,2025-10-22T05:43:20.932084
+DPLYR.dev,DPLYR is a tool that will help you deploy web apps on cloud servers quickly and efficiently,continuous-integration,https://github.com/marketplace/dplyr-dev,2025-10-22T05:43:21.108829
+Model Zoo,Low code machine learning deployment: deploy your model to an HTTP endpoint with a single line of code,continuous-integration,https://github.com/marketplace/model-zoo,2025-10-22T05:43:21.193567
+skywre,Connect and deploy to the cloud,continuous-integration,https://github.com/marketplace/skywre,2025-10-22T05:43:21.248732
+Simplr Business Suite,Simplr is an ultra heavyweight and business logic software built for professionals with all tools to go agile,continuous-integration,https://github.com/marketplace/simplr-business-suite,2025-10-22T05:43:21.352535
+Snyk,"Find, fix (and prevent!) known vulnerabilities in your code",dependency-management,https://github.com/marketplace/snyk,2025-10-22T05:43:23.151110
+Renovate,Dependency Automation service by Mend.io,dependency-management,https://github.com/marketplace/renovate,2025-10-22T05:43:23.324017
+Socket Security,Developer-first security platform that protects your code from both vulnerable and malicious dependencies,dependency-management,https://github.com/marketplace/socket-security,2025-10-22T05:43:23.480716
+Depfu,Automated dependency updates done right,dependency-management,https://github.com/marketplace/depfu,2025-10-22T05:43:23.605771
+Debricked,"Automatically identify, fix and prevent vulnerabilities in your open source dependencies",dependency-management,https://github.com/marketplace/debricked,2025-10-22T05:43:23.715939
+Repman - PHP Repository Manager,Repman lets you manage private PHP Composer dependencies and speed up Packagist downloads up to 80% with a dedicated CDN,dependency-management,https://github.com/marketplace/repman-php-repository-manager,2025-10-22T05:43:23.987962
+JS Bundle Analyzer,Keep your webpack bundle optimized over time,dependency-management,https://github.com/marketplace/js-bundle-analyzer,2025-10-22T05:43:24.169402
+MyGet,"Artifact and Package Repositories: Hosted NuGet, npm, Bower, Maven, PHP, VSIX, Python PyPI & RubyGems feeds",dependency-management,https://github.com/marketplace/myget,2025-10-22T05:43:24.349882
+Git X-Modules,A better way to manage modular Git projects,dependency-management,https://github.com/marketplace/git-x-modules,2025-10-22T05:43:24.531534
+Releases Tracker,Keep track of new releases,dependency-management,https://github.com/marketplace/releases-tracker,2025-10-22T05:43:24.707940
+Contrast Security SCA,Automated software composition analysis at scale,dependency-management,https://github.com/marketplace/contrast-security-sca,2025-10-22T05:43:25.072706
+Phylum,"Automate software supply chain security to prevent malware, vulnerabilities, and other risks",dependency-management,https://github.com/marketplace/phylum-io,2025-10-22T05:43:25.419740
+Container Registry,"Best-in-class CNCF Harbor based Container Image Management for individuals, teams and organizations",dependency-management,https://github.com/marketplace/container-registry,2025-10-22T05:43:25.704759
+StackAid,Fund all your open source dependencies,dependency-management,https://github.com/marketplace/stackaid,2025-10-22T05:43:25.855263
+Black Duck Security,"Onboard SAST/SCA at scale, find and fix security and code quality issues in your code and open source",dependency-management,https://github.com/marketplace/black-duck-security,2025-10-22T05:43:26.209307
+Bytesafe Integration,Stay in control and keep unwanted dependencies out of your organization,dependency-management,https://github.com/marketplace/bytesafe-integration,2025-10-22T05:43:27.757216
+InfieldAI,Data powered dependency upgrades,dependency-management,https://github.com/marketplace/infieldai,2025-10-22T05:43:27.848980
+Private Dependency Graph,Resolves dependencies/dependents in your GitHub organization,dependency-management,https://github.com/marketplace/private-dependency-graph,2025-10-22T05:43:28.153582
+Scantist DevSecOps,Proactive vulnerability management and license compliance for your third-party components,dependency-management,https://github.com/marketplace/scantist-sca,2025-10-22T05:43:28.508542
+WP Package Editor,The core functionality of WP Package Editor (WP2E) is to create and manage installation packages for WordPress,dependency-management,https://github.com/marketplace/wp-package-editor,2025-10-22T05:43:28.680621
+Threatrix,"Audit quality, snippet level, open source security and license compliance in build-time with auto-remediation",dependency-management,https://github.com/marketplace/threatrix,2025-10-22T05:43:29.137897
+SafeDep,SafeDep scans open source packages for malicious code before they are introduced in your repositories,dependency-management,https://github.com/marketplace/safedep,2025-10-22T05:43:29.319749
+EdgeBit Security,Real-time SCA tool to find issues in your supply chain and rank threats with context from production execution,dependency-management,https://github.com/marketplace/edgebit-security,2025-10-22T05:43:29.483177
+Dependabot-Slack-Integration,This Azure Function App helps you to integrate Dependabot alerts to your slack channels,dependency-management,https://github.com/marketplace/dependabot-slack-integration,2025-10-22T05:43:29.651995
+JellyBeanBot,An app that scans your repo for jellybean.yml files and syncs the details with your Jelly Bean Jar account,dependency-management,https://github.com/marketplace/jellybeanbot,2025-10-22T05:43:29.791910
+LocaleBadger,"LocaleBadger automates the internationalization (i18n) and localization (l10n) of software repositories: Rails, Gatsby, React",dependency-management,https://github.com/marketplace/localebadger,2025-10-22T05:43:29.929264
+PackjGuard,"Hardens your repo, detects dependency confusion & typo-squatting attempts, blocks malicious/risky open-source dependencies",dependency-management,https://github.com/marketplace/packjguard,2025-10-22T05:43:30.095596
+OpenSCA SaaS OAuth,OpenSCA is an open source solution to check your software for supply chain security risks,dependency-management,https://github.com/marketplace/opensca-saas-oauth,2025-10-22T05:43:30.259097
+nemabot,Keep your engineering data up-to-date with your code,dependency-management,https://github.com/marketplace/nemabot,2025-10-22T05:43:30.425863
+Xygeni Security,"Find, fix, and block vulnerabilities, secrets, misconfigurations, malware & supply chain attacks in your code and pipelines",dependency-management,https://github.com/marketplace/xygeni-security,2025-10-22T05:43:30.594415
+Cloud 66 Deployments,Deploy your code to your own servers on any cloud,deployment,https://github.com/marketplace/cloud-66-deployments,2025-10-22T05:43:32.737240
+Doppler,"Universal Secrets Manager that is the central source of truth for secrets across development, GitHub actions, & production",deployment,https://github.com/marketplace/doppler-secrets-manager,2025-10-22T05:43:32.910928
+Uffizzi Cloud,Make everyday a release day. 5x your release frequency with ephemeral preview environments for every PR,deployment,https://github.com/marketplace/uffizzi-cloud,2025-10-22T05:43:33.394889
+Sleuth,Track and improve engineering efficiency,deployment,https://github.com/marketplace/sleuth-deployment-tracking,2025-10-22T05:43:33.710856
+Brainboard,"Brainboard is a tool that allows you to visually design, deploy and manage infrastructures on any cloud, collaboratively",deployment,https://github.com/marketplace/brainboard,2025-10-22T05:43:33.871065
+Cloudzilla Launcher,Fast track your applications to the Internet,deployment,https://github.com/marketplace/cloudzilla-launcher,2025-10-22T05:43:34.453823
+Decentralized Internet,An NPM library of programs to create decentralized web and distributed computing projects,deployment,https://github.com/marketplace/decentralized-internet,2025-10-22T05:43:36.162141
+PR Scheduler,Lets developers schedule PRs to be merged at a specific date/time. Useful for scheduling posts on static blog frameworks,deployment,https://github.com/marketplace/pr-scheduler,2025-10-22T05:43:36.348140
+Octopus Deploy,"Deploy your software to multi-cloud, hybrid, and on-premises environments with ease",deployment,https://github.com/marketplace/octopus-deploy,2025-10-22T05:43:36.704557
+Altostra,No-code infrastructure platform for developers,deployment,https://github.com/marketplace/altostra,2025-10-22T05:43:36.875141
+Repl.deploy,Automatically deploy from GitHub to Replit,deployment,https://github.com/marketplace/repl-deploy,2025-10-22T05:43:37.037439
+Swift Package Registry,A Published List of Swift Packages,deployment,https://github.com/marketplace/swift-package-registry,2025-10-22T05:43:37.201086
+Strap,Strap is a script to bootstrap a minimal macOS development system,deployment,https://github.com/marketplace/strap,2025-10-22T05:43:38.424166
+Pull Dog,Automatic Docker Compose based test environments for your pull requests,deployment,https://github.com/marketplace/pull-dog,2025-10-22T05:43:38.594756
+DeployWizard,Create preview URLs for your Pull Requests with DeployWizard,deployment,https://github.com/marketplace/deploywizard,2025-10-22T05:43:40.991977
+Code Expander,Type faster using abbreviations for phrases with gist,deployment,https://github.com/marketplace/code-expander,2025-10-22T05:43:41.167213
+Releasy Semantic,Releasy - Semantic versioning of your software easily,deployment,https://github.com/marketplace/releasy-semantic,2025-10-22T05:43:41.877096
+Flagsmith Integration,View your Flagsmith Flags inside your GitHub Issues and Pull Request,deployment,https://github.com/marketplace/flagsmith-integration,2025-10-22T05:43:42.047624
+Sparklehub Appcast,Generate your Sparkle appcasts with GitHub Releases,deployment,https://github.com/marketplace/sparklehub-appcast,2025-10-22T05:43:42.532733
+Onboardbase,"Simple and secure storage for your team's environment configs, at every stage of development, synced across your infra",deployment,https://github.com/marketplace/onboardbase-secrets-manager,2025-10-22T05:43:42.698389
+Oobeya | DORA Metrics,Measure and track the most accurate DORA Metrics,deployment,https://github.com/marketplace/oobeya-dora-metrics,2025-10-22T05:43:42.918628
+CNP for DevOps,Infrastructure-as-Code (IaC) scan functionality from Cloud Native Protector (CNP),deployment,https://github.com/marketplace/cnp-for-devops,2025-10-22T05:43:43.071099
+Code Pipes,The application installer for the public cloud,deployment,https://github.com/marketplace/code-pipes,2025-10-22T05:43:43.241846
+D2X Launchpad,Create repositories fully configured for Well-Architected Salesforce development preconfigured for Actions and Codespaces,deployment,https://github.com/marketplace/d2x-launchpad,2025-10-22T05:43:43.599263
+Custom Notebook Image Build Bot,This bot helps you to create container images for you Jupyter Notebooks on Open Data Hub,deployment,https://github.com/marketplace/custom-notebook-image-build-bot,2025-10-22T05:43:45.178613
+Matatika Workspaces,Extract data from 500 sources in a modern data project,deployment,https://github.com/marketplace/matatika-workspaces,2025-10-22T05:43:45.358897
+Progress Logger,List merged pull requests on Slack every morning,deployment,https://github.com/marketplace/progress-logger,2025-10-22T05:43:45.897630
+Secure Guard,Enterprise-Grade Container Security Platform,deployment,https://github.com/marketplace/oortfy,2025-10-22T05:43:46.216474
+SyncDepot,Synchronize your repository's issues and releases with clients. IN DEVELOPMENT,deployment,https://github.com/marketplace/syncdepot,2025-10-22T05:43:46.355878
+Opsly,Opsly is a self-service DevOps platform enabling devs without DevOps knowledge to build and deploy apps using DevOps code,deployment,https://github.com/marketplace/opsly,2025-10-22T05:43:46.531345
+alpha-team-hng-bot,"Bot app listens for specific GitHub events, verifies their authenticity, and triggers Docker-based deployments",deployment,https://github.com/marketplace/alpha-team-hng-bot,2025-10-22T05:43:46.976916
+CloudEnv HQ,Keep Your Environmental Variables Secure And In Sync,deployment,https://github.com/marketplace/cloudenv-hq,2025-10-22T05:43:47.143905
+Cloud 66 for Rails,"Build, deploy, and maintain your Rails apps on any cloud or server",deployment,https://github.com/marketplace/cloud-66-for-rails,2025-10-22T05:43:47.322496
+Gtiploy,Build the deployment system around GitHub in minutes,deployment,https://github.com/marketplace/gtiploy,2025-10-22T05:43:47.886446
+Proven Cloud - Login,Sign in to Proven with GitHub,deployment,https://github.com/marketplace/proven-cloud-login,2025-10-22T05:43:50.219729
+Cube Cloud Integration,Managed Cloud for Cube applications,deployment,https://github.com/marketplace/cube-cloud-integration,2025-10-22T05:43:50.336919
+Honeycomb.io,Observability helps you understand what’s happening in production and debug issues fast,deployment-protection-rules,https://github.com/marketplace/honeycomb-io,2025-10-22T05:43:52.002897
+Branch Guardian,A GitHub App to automatically protect the main branches in an organisation's repos,deployment-protection-rules,https://github.com/marketplace/branch-guardian,2025-10-22T05:43:52.184759
+Sentry-Vine,Integrate Sentry with Vine,deployment-protection-rules,https://github.com/marketplace/sentry-vine,2025-10-22T05:43:52.360235
+Jam.dev,Create GitHub issues with all the details developers need to resolve bugs faster,desktop-tools,https://github.com/marketplace/jam-dev-for-github,2025-10-22T05:43:54.135512
+Neat,"GitHub notifications in your macOS menu bar. Alternative to DevHub, Octobox, and Slack",desktop-tools,https://github.com/marketplace/notifications-by-neat,2025-10-22T05:43:54.441347
+Slapdash,Command Bar Launcher for Github,desktop-tools,https://github.com/marketplace/slapdash,2025-10-22T05:43:54.604882
+NotesHub: Notes App,"Fully cross-platform, vendor-agnostic, markdown-based note-taking app with deep GitHub integration",desktop-tools,https://github.com/marketplace/noteshub-notes-app,2025-10-22T05:43:54.782493
+Git Streaks,Make coding on GitHub a habit,desktop-tools,https://github.com/marketplace/git-streaks,2025-10-22T05:43:54.958515
+Simple discord bot,This is a app the can help you make a discord bot. This app makes a starter code types simple and helps with the bots discord,desktop-tools,https://github.com/marketplace/simple-discord-bot,2025-10-22T05:43:55.129500
+Join Buzz,Your GitHub notifications on your menu bar,desktop-tools,https://github.com/marketplace/join-buzz,2025-10-22T05:43:55.478026
+octo.app,Build your knowledge base,desktop-tools,https://github.com/marketplace/octo-editor,2025-10-22T05:43:55.618302
+Memo Note App,GitHub Gist Powered Smart Note Taking App,desktop-tools,https://github.com/marketplace/memo-note-app,2025-10-22T05:43:55.794456
+PDF Studio for Windows,"An easy to use, full-featured PDF editing software",desktop-tools,https://github.com/marketplace/pdf-studio-for-windows,2025-10-22T05:43:56.157280
+PDF Studio Viewer,PDF Studio Viewer is a Free PDF Viewer,desktop-tools,https://github.com/marketplace/pdf-studio-viewer,2025-10-22T05:43:56.469455
+PDF Studio for macOS,"An easy to use, full-featured PDF editing software",desktop-tools,https://github.com/marketplace/pdf-studio-for-macos,2025-10-22T05:43:56.562607
+Forky.io,A zen mindmapping tool,desktop-tools,https://github.com/marketplace/forky-io,2025-10-22T05:43:56.713732
+PDF Studio Viewer for Linux,"Create, Review and Edit PDF Documents",desktop-tools,https://github.com/marketplace/pdf-studio-viewer-for-linux,2025-10-22T05:43:56.893540
+Curiosity for GitHub,Search all your apps and data in one place,desktop-tools,https://github.com/marketplace/curiosity-for-github,2025-10-22T05:43:57.067113
+PDF Studio Viewer for macOS,"Create, Review and Edit PDF Documents",desktop-tools,https://github.com/marketplace/pdf-studio-viewer-for-macos,2025-10-22T05:43:58.935683
+Snippie for macOS,"Revolutionize your coding workflow with Snippie, the ultimate Gist / Snippets manager",desktop-tools,https://github.com/marketplace/snippie-for-macos,2025-10-22T05:43:59.446701
+aforabbasi.com,Elevate your project with authenticity and innovation with our dedication transforms visions into immersive realities,desktop-tools,https://github.com/marketplace/aforabbasi-com,2025-10-22T05:43:59.792348
+Coding Rooms,The first virtual classroom for teaching programming,ides,https://github.com/marketplace/coding-rooms,2025-10-22T05:44:02.008608
+Vue Play,Create Vue Applications using a Visual Designer,ides,https://github.com/marketplace/vue-play-studio,2025-10-22T05:44:02.365704
+Codeit,Mobile code editor connected to Git,ides,https://github.com/marketplace/codeit-codes,2025-10-22T05:44:02.544835
+Cerveau,Note-taking based on plain-text Markdown in Git repo,ides,https://github.com/marketplace/cerveau-neuron,2025-10-22T05:44:02.813304
+FlowUI,Builds and runs mobile UI Automation non-flaky tests. Specially designed for QA,ides,https://github.com/marketplace/flowui,2025-10-22T05:44:02.877143
+Matillion Data Productivity Cloud Integration,Seamless Matillion Data Pipeline management via GitHub,ides,https://github.com/marketplace/matillion-data-productivity-cloud-integration,2025-10-22T05:44:03.016466
+PDDON,Free multi-functional professional online drawing tool(Low Code),ides,https://github.com/marketplace/pddon,2025-10-22T05:44:03.531710
+Lapdev Cloud,Performant cloud development environment using Gaming CPU,ides,https://github.com/marketplace/lapdev-cloud,2025-10-22T05:44:03.807334
+cee.studio,"Debug C/C++ Memory Errors In Minutes, Not In Hours",ides,https://github.com/marketplace/cee-studio,2025-10-22T05:44:03.925498
+Portacode,Mobile-friendly professional online code editor for github,ides,https://github.com/marketplace/portacode,2025-10-22T05:44:04.234790
+BSide,Lightweight Github CMS,ides,https://github.com/marketplace/bside-app,2025-10-22T05:44:04.415100
+CPods - SaaS Solution Delivery Environment For Incubation,SaaS Solution Delivery Environment For Incubation,ides,https://github.com/marketplace/cpods-saas-solution-delivery-environment-for-incubation,2025-10-22T05:44:06.089442
+Boot.dev,Learn to code in the browser,learning,https://github.com/marketplace/qvault,2025-10-22T05:44:07.832139
+HighLoad.fun,A platform for developers competitions in optimizations,learning,https://github.com/marketplace/highload-fun,2025-10-22T05:44:08.081209
+Secure Code Warrior for GitHub,Resolve vulnerabilities faster with highly relevant in-app secure coding learning,learning,https://github.com/marketplace/secure-code-warrior-for-github,2025-10-22T05:44:08.253568
+Holopin,Holopin bot for issuing badges based on GitHub activity,learning,https://github.com/marketplace/holopin,2025-10-22T05:44:08.621392
+Archbee,"Archbee enables your team to easily build beautiful product documentation sites, internal wikis, knowledge bases, API refs",learning,https://github.com/marketplace/archbee,2025-10-22T05:44:08.772087
+TIL: Today I Learned,Today I Learned helps you document things you learn everyday (requires browser extension),learning,https://github.com/marketplace/til-today-i-learned,2025-10-22T05:44:08.887540
+ReflectionBot,Engage and advance students learning through prompts sent to them when they push,learning,https://github.com/marketplace/reflectionbot,2025-10-22T05:44:09.157761
+A Byte of Coding,A Byte of Coding is a daily programming newsletter that is manually curated,learning,https://github.com/marketplace/a-byte-of-coding,2025-10-22T05:44:09.329178
+XRPL Bot,XRPL ledger transaction explanations,learning,https://github.com/marketplace/xrpl-bot,2025-10-22T05:44:09.504867
+SecureFlag Knowledge Base,Contextual software security training for issues and pull requests,learning,https://github.com/marketplace/secureflag-knowledge-base,2025-10-22T05:44:09.688166
+Quotti,Kepp yourself motivated for the next commit,learning,https://github.com/marketplace/quotti,2025-10-22T05:44:09.872267
+PeerGraph,Simplest way to run peer feedback in your organization,learning,https://github.com/marketplace/peergraph,2025-10-22T05:44:10.055325
+Simplab Integration,GitHub App for integration with Simplab infrastructure,learning,https://github.com/marketplace/simplab-integration,2025-10-22T05:44:10.427207
+Tour,Create interactive tours for your open source projects,learning,https://github.com/marketplace/tour,2025-10-22T05:44:10.601629
+Two Mike Apps,This description is so short,learning,https://github.com/marketplace/a-mike-app,2025-10-22T05:44:10.888942
+Página de dívidas sobre tecnologia,Página de tecnologia,learning,https://github.com/marketplace/pagina-de-dividas-sobre-tecnologia,2025-10-22T05:44:12.475423
+ObsiSync,Github Synced note taking app for mobile,learning,https://github.com/marketplace/obsisync,2025-10-22T05:44:12.653208
+Next Boilerplate,Fullstack Next JS Templates for Joki,learning,https://github.com/marketplace/fullstack-next-templates,2025-10-22T05:44:12.818074
+Reach.Live - Host Tech Talks Live & On-Demand,Reach.Live allows engineers to learn & share their programming skills with each other,learning,https://github.com/marketplace/reach-live-host-tech-talks-live-on-demand,2025-10-22T05:44:12.888918
+abtcode.com,Blog for Coders,learning,https://github.com/marketplace/abtcode-com,2025-10-22T05:44:13.019603
+GitNews.tech,Social News website for developers and Github fans,learning,https://github.com/marketplace/gitnews-tech,2025-10-22T05:44:13.192246
+compada,"At Compada, everyone is part of your company",learning,https://github.com/marketplace/compada,2025-10-22T05:44:13.362999
+LeaveMeAloneApp,A GitHub App that does not want to be installed,learning,https://github.com/marketplace/leavemealoneapp,2025-10-22T05:44:13.534113
+Crowdin,Agile localization for your projects,localization,https://github.com/marketplace/crowdin,2025-10-22T05:44:15.453189
+POEditor,Manage your software localization collaboratively,localization,https://github.com/marketplace/poeditor,2025-10-22T05:44:15.633320
+QuickFastChange,A Fast Search & Replace Tool For Your Projects,localization,https://github.com/marketplace/quickfastchange,2025-10-22T05:44:15.949786
+Localyzer Express,"(Alpha Version) Lingoport continuous translation/localization for your application resource files (.properties, .resx ...)",localization,https://github.com/marketplace/localyzer-express,2025-10-22T05:44:16.245249
+lettranslateSync,Sync your translations to GitHub,localization,https://github.com/marketplace/lettranslatesync,2025-10-22T05:44:16.416542
+LILT <> GitHub Connector,"Enterprise-grade translation with AI speed, in your repository",localization,https://github.com/marketplace/lilt-github-app,2025-10-22T05:44:16.589460
+Recontent.app,Synchronize your product copy & translations between Recontent.app & your repositories,localization,https://github.com/marketplace/recontent-app,2025-10-22T05:44:17.048365
+GitLocalize,Continuous Localization for GitHub projects,localization,https://github.com/marketplace/gitlocalize,2025-10-22T05:44:17.398575
+trnsltr,A simple editor to edit your Rails localization files,localization,https://github.com/marketplace/trnsltr,2025-10-22T05:44:17.578303
+ZLGithubClient,Github iOS Client based on Github REST V3 API and GraphQL V4 API,mobile,https://github.com/marketplace/zlgithubclient,2025-10-22T05:44:19.268772
+DevHub,"Desktop & Mobile apps to keep an eye on Repo Activities, Issues & Notifications (like TweetDeck)",mobile,https://github.com/marketplace/devhub-app,2025-10-22T05:44:19.440436
+AppSweep,"Mobile app security scanning built for developers with intuitive issue navigation and clear, actionable feedback",mobile,https://github.com/marketplace/appsweep,2025-10-22T05:44:20.144788
+Cobrowse.io,"Cobrowse for Android, iOS and Web",mobile,https://github.com/marketplace/cobrowse-io,2025-10-22T05:44:20.643001
+Beetle App,Collect feedback & bug reports on your Android apps into your GitHub Issues,mobile,https://github.com/marketplace/beetle-app,2025-10-22T05:44:20.818251
+Vigil: Background Video & Recorder,Stay Secure | Record Safely | Background Voice & Video Recorder,mobile,https://github.com/marketplace/vigil-secret-video-recorder,2025-10-22T05:44:21.278693
+AmblyopiaTreatment,the training and rehabilitation of disorders of binocular and monocular vision,mobile,https://github.com/marketplace/amblyopiatreatment,2025-10-22T05:44:21.627940
+GitGuardian,Secrets Security Platform - The most downloaded GitHub app lets you find and fix hardcoded API keys in code,monitoring,https://github.com/marketplace/gitguardian,2025-10-22T05:44:26.496323
+Sentry,"Real-time, cross-platform crash reporting and error logging",monitoring,https://github.com/marketplace/sentry,2025-10-22T05:44:26.673961
+LogRocket,Record videos of user sessions with enhanced logging information,monitoring,https://github.com/marketplace/logrocket,2025-10-22T05:44:26.843682
+Airbrake,Frictionless error monitoring and performance insights for your entire app stack,monitoring,https://github.com/marketplace/airbrake,2025-10-22T05:44:27.010574
+Rollbar,"Real-time, cross-platform crash reporting and error logging starting at $0/mo",monitoring,https://github.com/marketplace/rollbar,2025-10-22T05:44:27.178841
+Drata (Version Control),The Drata (Version Control) app uses read-only repo access to continuously monitor your SOC 2 compliance posture,monitoring,https://github.com/marketplace/drata-version-control,2025-10-22T05:44:27.297923
+Software.com,Automatically measure the impact of GitHub Copilot on software development and increase adoption with confidence,monitoring,https://github.com/marketplace/software-for-github,2025-10-22T05:44:27.473672
+Secureframe,Streamline your security compliance,monitoring,https://github.com/marketplace/secureframe,2025-10-22T05:44:27.809939
+Honeybadger.io,The web developer's secret weapon,monitoring,https://github.com/marketplace/honeybadger-io,2025-10-22T05:44:27.885303
+Typo App,"Automate engineering insights across Github, JIRA, Slack & remove dev blockers in real-time",monitoring,https://github.com/marketplace/typo-app,2025-10-22T05:44:28.218805
+Repohistory,GitHub repo analytics tool without 14 days limit,monitoring,https://github.com/marketplace/repohistory,2025-10-22T05:44:28.583388
+IcePanel,Explain complex software systems,monitoring,https://github.com/marketplace/icepanel,2025-10-22T05:44:29.052918
+Star Notifier,To receive an email notification when there is new Star for your projects,monitoring,https://github.com/marketplace/star-notifier,2025-10-22T05:44:29.340494
+GitSpo,Analytics and Alerts for Open-Source,monitoring,https://github.com/marketplace/gitspo,2025-10-22T05:44:29.514460
+MyRepoBot for Discord,"Connect Github to Discord, configure notifications, and keep up with your repositories updates",monitoring,https://github.com/marketplace/myrepobot-for-discord,2025-10-22T05:44:31.396288
+CatLight.io,"Action Center for developers. Get desktop notifications for PRs, GitHub Actions and Issues",monitoring,https://github.com/marketplace/catlight-io,2025-10-22T05:44:31.565762
+Octolense - GitHub Actions Analytics,"Complete GitHub Actions visibility. Cost insights, real-time monitoring. All your repos, in one dashboard",monitoring,https://github.com/marketplace/octolense-github-actions-dashboard,2025-10-22T05:44:31.738304
+Bugfender app,Log storage for your applications,monitoring,https://github.com/marketplace/bugfender-app,2025-10-22T05:44:31.914057
+Warestack,"Setup custom protection rules for any team or repo group-flag, block with exceptions, and give context to teams automatically",monitoring,https://github.com/marketplace/warestack,2025-10-22T05:44:32.092377
+DevOps KPI Collector,Read Only access to collect DevOps KPI Data and generate Dashboard,monitoring,https://github.com/marketplace/devops-kpi-collector,2025-10-22T05:44:32.430300
+Rootly,Rootly is a Slack-native incident management app and platform that automates tedious manual work during incidents,monitoring,https://github.com/marketplace/rootly-com,2025-10-22T05:44:32.492762
+Waydev,AI-Powered Software Engineering Intelligence Platform,monitoring,https://github.com/marketplace/waydev,2025-10-22T05:44:32.550142
+IAM Security Monitoring,Ensures IAM Best practices are followed by your team to keep your source code safe. Alerts when there is violation detected,monitoring,https://github.com/marketplace/iam-security-monitoring,2025-10-22T05:44:32.603409
+OkayHQ,Analytics for dev tools,monitoring,https://github.com/marketplace/okayhq,2025-10-22T05:44:32.656357
+Polymer DLP for GitHub,"Polymer automatically detects & protects secrets, credentials, PII, & other sensitive data in GitHub repos",monitoring,https://github.com/marketplace/polymer-dlp-for-github,2025-10-22T05:44:32.819068
+SOC 2 & ISO 27001 Readiness,This app reads your Github settings and metadata to collect evidence for your SOC 2 or ISO-27001 audit,monitoring,https://github.com/marketplace/soc-2-iso-27001-readiness,2025-10-22T05:44:32.877265
+DoControl.io,No-Code SaaS Security Platform - Modernizing DLP and CASB to secure SaaS data,monitoring,https://github.com/marketplace/docontrol-io,2025-10-22T05:44:32.930110
+Octostats Analytics,Scoreboard for your public Github repositories,monitoring,https://github.com/marketplace/octostats-scoreboard,2025-10-22T05:44:32.983887
+Epsagon,GitHub Integration with Epsagon,monitoring,https://github.com/marketplace/epsagon,2025-10-22T05:44:33.108695
+ByteChek,Make Compliance Suck Less,monitoring,https://github.com/marketplace/bytechek,2025-10-22T05:44:35.155564
+"Simple Ops - Web Vitals, Performance & Uptime Monitoring","Website web vitals, performance and uptime monitoring along with API and Server Monitoring",monitoring,https://github.com/marketplace/simple-ops-peformance-uptime-monitoring,2025-10-22T05:44:35.316876
+TeamTrace,TeamTrace is a work management and monitoring platform,monitoring,https://github.com/marketplace/teamtraceapp,2025-10-22T05:44:35.497606
+Zorka - Star Notifier,Notifies you whenever your repository gets a star ⭐️,monitoring,https://github.com/marketplace/zorka-star-notifier,2025-10-22T05:44:35.681941
+Byrnu PrimeFactor,"Copilot Dashboard - Planning, Audit, Review and Performance Tracking",monitoring,https://github.com/marketplace/byrnu-primefactor,2025-10-22T05:44:36.041798
+Eficode Connector,"Optimize GitHub workflows, track user activity, manage costs, and enhance security with Eficode Connector",monitoring,https://github.com/marketplace/eficode-root-connector,2025-10-22T05:44:36.220254
+TeamTraceDev,TeamTrace is a work management and monitoring platform,monitoring,https://github.com/marketplace/teamtracedev,2025-10-22T05:44:36.403330
+logr,pretty logger and metric service,monitoring,https://github.com/marketplace/logr-info,2025-10-22T05:44:36.582708
+Tability for Github,Connect work to the goals that matter,monitoring,https://github.com/marketplace/tability-for-github,2025-10-22T05:44:36.758056
+Panaptico,Panaptico provides comprehensive protection across your cloud infrastructure,monitoring,https://github.com/marketplace/panaptico,2025-10-22T05:44:36.936050
+WidgetGitBoard,See what's happen in your github,monitoring,https://github.com/marketplace/widgetgitboard,2025-10-22T05:44:37.109560
+Userbase App,A unique solution for managing your organization users,monitoring,https://github.com/marketplace/userbase-app,2025-10-22T05:44:37.279416
+Starhub Notifier,"All about your Github account, public and private activity, stars count, downloads count, followers and much more",monitoring,https://github.com/marketplace/starhub-notifier,2025-10-22T05:44:37.437610
+HackMD Hub,HackMD lets the community collaborate on your documentation in real-time,open-source-management,https://github.com/marketplace/hackmd-hub,2025-10-22T05:44:39.117498
+Octobox,Spend less time managing your GitHub notifications,open-source-management,https://github.com/marketplace/octobox,2025-10-22T05:44:39.295107
+Ranger,A sidekick for repository maintainers,open-source-management,https://github.com/marketplace/ranger,2025-10-22T05:44:39.848547
+boss-bounty,"GitHub, now with bounties; create/earn bounties via issue comments",open-source-management,https://github.com/marketplace/boss-bounty,2025-10-22T05:44:40.019789
+cla-bot - CLA automation,"cla-bot is a bot that automates Contributor Licence Agreements (CLAs), automatically checking every commit and PR",open-source-management,https://github.com/marketplace/cla-bot-cla-automation,2025-10-22T05:44:40.202179
+Vaunt.Dev,A Developer Relations Platform,open-source-management,https://github.com/marketplace/vaunt-dev,2025-10-22T05:44:40.554836
+Boring Cyborg,"A Github bot to automatically label PRs, issues and perform all the boring operations that you don't want to do",open-source-management,https://github.com/marketplace/boring-cyborg-add-labels-to-prs-based-on-filepaths,2025-10-22T05:44:40.792009
+devActivity App,"AI-powered contributions analytics app featuring Gamification, Performance Reviews, Alerts, and much more",open-source-management,https://github.com/marketplace/devactivity-app,2025-10-22T05:44:40.970917
+Issue Labeler Bot,A GitHub bot to label issues automatically based on title and body against list of defined label,open-source-management,https://github.com/marketplace/issue-labeler-bot,2025-10-22T05:44:41.145705
+LunaTrace by LunaSec,Find and fix security problems like Log4Shell automatically. Available Open Source or as a hosted SaaS powered by GitHub Apps,open-source-management,https://github.com/marketplace/lunatrace-by-lunasec,2025-10-22T05:44:41.501727
+auto-add-label,Automatically add label for pull request,open-source-management,https://github.com/marketplace/auto-add-label,2025-10-22T05:44:41.599047
+OpireBot,A rewards platform for software developers,open-source-management,https://github.com/marketplace/opirebot,2025-10-22T05:44:41.733135
+Open Collective Bot,A perfect companion for your Open Collective,open-source-management,https://github.com/marketplace/open-collective-bot,2025-10-22T05:44:41.923704
+Keyword Labeler,A GitHub bot to label issues and PRs automatically based on keywords in the title and body,open-source-management,https://github.com/marketplace/keywordlabeler,2025-10-22T05:44:42.098077
+Ensure Single Commit,Rebasing is important to This is just a small checker on PRs to ensure we have single commit per PR,open-source-management,https://github.com/marketplace/ensure-single-commit,2025-10-22T05:44:43.689952
+Seal Security Bot,Seal helps you remediate open source vulnerabilities without enduring difficult upgrades,open-source-management,https://github.com/marketplace/seal-security-bot,2025-10-22T05:44:43.844446
+Merge to Earn,The reward system for open source development,open-source-management,https://github.com/marketplace/merge-to-earn,2025-10-22T05:44:44.077232
+MergeBase CodeGreen,MergeBase CodeGreen scans your projects for vulnerable components. Track and eliminate vulnerable components,open-source-management,https://github.com/marketplace/mergebase-codegreen,2025-10-22T05:44:44.430783
+BountyHub App,BountyHub is a platform where developers can put bounties on their Github issues or earn money by solving them,open-source-management,https://github.com/marketplace/bountyhub-app,2025-10-22T05:44:44.550376
+quine-bot,Understand the experience of the contributors that submit PRs to your repos,open-source-management,https://github.com/marketplace/quine-bot,2025-10-22T05:44:44.721989
+StarryCake,A Multiple-feature-combined GitHub Bot Application,open-source-management,https://github.com/marketplace/starrycake,2025-10-22T05:44:45.079291
+Indent Access,On-demand access for GitHub Teams,open-source-management,https://github.com/marketplace/indent-access,2025-10-22T05:44:45.413744
+Knotters Bot,The knottersbot to help you grow on Knotters via your GitHub activities,open-source-management,https://github.com/marketplace/knotters-bot,2025-10-22T05:44:45.588518
+IssueUp,Mirror issues to the upstream repos,open-source-management,https://github.com/marketplace/issue-up,2025-10-22T05:44:45.879686
+Knope Bot,Automates releases using changesets and conventional commits,open-source-management,https://github.com/marketplace/knope-bot,2025-10-22T05:44:46.052396
+blitz - community-driven backlog,involve users in product planning and crowdfund top ideas,open-source-management,https://github.com/marketplace/blitz-public-roadmap,2025-10-22T05:44:46.222684
+slashkudos,"Build team morale by giving kudos to your teammates directly from issues, pull requests and discussions",open-source-management,https://github.com/marketplace/slashkudos,2025-10-22T05:44:46.396328
+Pydantic Hooky,"Productivity tools for popular open source repos, used by pydantic",open-source-management,https://github.com/marketplace/pydantic-hooky,2025-10-22T05:44:46.568233
+@fmsports,FM Sports Organization,open-source-management,https://github.com/marketplace/fmsports,2025-10-22T05:44:48.160484
+Byte Bot App,Byte is the Discord and GitHub app for serving in open source communities,open-source-management,https://github.com/marketplace/byte-bot-app,2025-10-22T05:44:48.328588
+GitGinie,find your repository a ginie in this cruel world,open-source-management,https://github.com/marketplace/gitginie,2025-10-22T05:44:48.491126
+Repository Guard,Repo Guard is a web service that integrates with GitHub repositories to automatically manage duplicate issues,open-source-management,https://github.com/marketplace/repository-guard,2025-10-22T05:44:48.948582
+CodersGuild.Net,"Publish your projects' issues on CodersGuild.Net, let more brains work with you",open-source-management,https://github.com/marketplace/codersguild-net,2025-10-22T05:44:49.109278
+RH Internal Backstage Scaffolder,GitHub Application for Backstage Software Templates with Red Hat Internal Backstage Instances (AppDev Platform),open-source-management,https://github.com/marketplace/rh-internal-backstage-scaffolder,2025-10-22T05:44:49.287306
+Repo Command,A bot that automates repository management through commands and automatic labeling,open-source-management,https://github.com/marketplace/repo-command,2025-10-22T05:44:49.464080
+agba-merger,A bot that helps you merge any Pull request in your projects on a scheduled date,open-source-management,https://github.com/marketplace/agba-merger,2025-10-22T05:44:49.633266
+INFINI Cloud,ONE-STOP SEARCH PLATFORM (Crafted for Elasticsearch/OpenSearch/Easysearch/Pizza),open-source-management,https://github.com/marketplace/infini-cloud,2025-10-22T05:44:49.764147
+GitBounty Issue,Create and earn bounties for open source repository issues,open-source-management,https://github.com/marketplace/gitbounty-issue,2025-10-22T05:44:49.882431
+ZenCrepes,Stateless & OpenSource client-side Agile analytics and reporting over GitHub issues across organizations and repositories,open-source-management,https://github.com/marketplace/zencrepes,2025-10-22T05:44:50.055575
+Linux Hint BD,"The Linux Hint BD IT Services organization delivers innovative,",open-source-management,https://github.com/marketplace/linux-hint-bd,2025-10-22T05:44:50.230913
+Zenhub,"Project management that's seamlessly integrated with GitHub’s data & interface, builds powerful insights & automates tasks",project-management,https://github.com/marketplace/zenhub,2025-10-22T05:44:52.633955
+Atlassian,"GitHub for Atlassian unifies data, automates workflows, and syncs development across GitHub, Jira, and your Atlassian apps",project-management,https://github.com/marketplace/jira-software-github,2025-10-22T05:44:52.803096
+WakaTime,"Metrics, goals, and time tracking automatically generated from your programming activity",project-management,https://github.com/marketplace/wakatime,2025-10-22T05:44:52.883806
+Azure Boards,"Connects Azure Boards with GitHub to plan, track, and discuss work across your teams",project-management,https://github.com/marketplace/azure-boards,2025-10-22T05:44:53.031716
+ClickUp,The productivity platform that provides a fundamentally new way to work,project-management,https://github.com/marketplace/clickup,2025-10-22T05:44:53.203237
+Azure Boards OAuth,"Connects Azure Boards with GitHub to plan, track, and discuss work across your teams",project-management,https://github.com/marketplace/azure-boards-oauth,2025-10-22T05:44:53.380798
+monday.com + GitHub,GitHub for monday.com empowers teams to extend their level of automation to address both updates and actions taken in GitHub,project-management,https://github.com/marketplace/monday-com-github,2025-10-22T05:44:53.878196
+Unito Two-Way Sync for GitHub,"Automatically sync GitHub issues to and from other tools like Asana, Jira, ClickUp, Notion, Trello, Google Sheets and more",project-management,https://github.com/marketplace/2-way-sync-by-unito,2025-10-22T05:44:54.471542
+Zube,An Agile project management tool that seamlessly integrates with GitHub Issues,project-management,https://github.com/marketplace/zube,2025-10-22T05:44:54.642604
+todo,Create new issues from actionable comments in your code,project-management,https://github.com/marketplace/todo,2025-10-22T05:44:54.817532
+Repography,"Create graphical dashboards for your README.md, and beautiful data visualization posters for your wall",project-management,https://github.com/marketplace/repography,2025-10-22T05:44:57.255202
+Timely - Time tracking and planning,Automatically capture all the time you spend in GitHub,project-management,https://github.com/marketplace/timely-time-tracking-and-planning,2025-10-22T05:44:57.608295
+Codetree,Lightweight project management for GitHub issues,project-management,https://github.com/marketplace/codetree,2025-10-22T05:44:57.874448
+pingcode-software-github,Connect your code with your Agile management in PingCode,project-management,https://github.com/marketplace/worktile-software-github,2025-10-22T05:44:57.952349
+Zerocrat,A project manager that never sleeps,project-management,https://github.com/marketplace/zerocrat,2025-10-22T05:44:58.066163
+Kiwi TCMS,Open source test management system with over 2M downloads,project-management,https://github.com/marketplace/kiwi-tcms,2025-10-22T05:44:58.435224
+Pull Request Badge,Pull Request Badge lets you programatically insert badges in your pull request descriptions and then link them to anything,project-management,https://github.com/marketplace/pull-request-badge,2025-10-22T05:44:58.620758
+Jira Integration for Github,Jira Integration for Github,project-management,https://github.com/marketplace/jira-integration-for-github,2025-10-22T05:44:58.935007
+Nifty,The Ultimate Project Management OS,project-management,https://github.com/marketplace/nifty-pm,2025-10-22T05:44:59.078986
+Zoho Sprints,Agile project management tool for Scrum teams,project-management,https://github.com/marketplace/zoho-sprints,2025-10-22T05:44:59.253487
+Teamlytics,"Team leader board and statistics on code contributions, PRs, code reviews, closing issues, and project managment",project-management,https://github.com/marketplace/teamlytics,2025-10-22T05:44:59.427441
+issit-app,Slackのスレッドをもとに、GitHub issueを作成,project-management,https://github.com/marketplace/issit-app,2025-10-22T05:44:59.600544
+Board Genius Sync,"Sync Github issues to Trello, Jira, Gitlab, Asana and more",project-management,https://github.com/marketplace/board-genius-sync,2025-10-22T05:44:59.774633
+GoodDay Work,GoodDay is a modern work management and productivity platform,project-management,https://github.com/marketplace/goodday-work,2025-10-22T05:44:59.975661
+Trafico,"Automatically adds labels to Pull Requests based on their status (WIP, Changes Requested, Approved) and who's reviewing them",project-management,https://github.com/marketplace/trafico-pull-request-labeler,2025-10-22T05:45:01.682484
+Parabol Retrospectives,"Improve team performance–open source, free for life",project-management,https://github.com/marketplace/parabol-retrospectives,2025-10-22T05:45:02.033267
+Todoist<-Github Sync,GitHub to Todoist sync,project-management,https://github.com/marketplace/todoist-github-sync,2025-10-22T05:45:02.312955
+BetterBugs for GitHub,"With BetterBugs and GitHub integration, you can raise issues directly to your GitHub repo with comprehensive bug reports",project-management,https://github.com/marketplace/betterbugs-for-github,2025-10-22T05:45:02.813378
+Analytics & Reports,"Instant Analytics and Automated Reports for GitHub, Jira, Linear, and more",project-management,https://github.com/marketplace/analytics-reports,2025-10-22T05:45:02.888191
+HubDesk,Create Github Issues from Emails. Respond to them with a Comment,project-management,https://github.com/marketplace/hubdesk,2025-10-22T05:45:03.185415
+Auto Badge,Automatically label your pull requests,project-management,https://github.com/marketplace/auto-badge,2025-10-22T05:45:03.722368
+Featurebase for GitHub,Capture and convert customer feedback into actionable GitHub Issues,project-management,https://github.com/marketplace/featurebase-for-github,2025-10-22T05:45:04.094511
+Quantify,Use commits mapped to Atlassian Jira projects as additional metadata source for the Quantify,project-management,https://github.com/marketplace/quantify,2025-10-22T05:45:04.185510
+Planyway for GitHub,"Intuitive visual tool for project management: resource planning, advanced roadmaps and calendar for Github",project-management,https://github.com/marketplace/planyway-for-github,2025-10-22T05:45:04.354316
+Stacks - Project Manager,Personal kanban and project management tool in a stunning UI,project-management,https://github.com/marketplace/stacks-project-manager,2025-10-22T05:45:04.539624
+Devdynamics App,Ship better quality software. Faster,project-management,https://github.com/marketplace/devdynamics-app,2025-10-22T05:45:06.123707
+Sleekplan,"All-in-one feature tracking, roadmap, and changelog - all synced with GitHub Issues",project-management,https://github.com/marketplace/sleekplan,2025-10-22T05:45:06.229740
+Feature Bot,Give elegant incentives to developers to contribute to your projects by giving a crypto reward for each task completed,project-management,https://github.com/marketplace/feature-bot,2025-10-22T05:45:06.396667
+PR Milestone Check,Verifies whether a milestone has been set on a PR or not - the result is used as a status on the PR / last commit in the PR,project-management,https://github.com/marketplace/pr-milestone-check,2025-10-22T05:45:06.562972
+Jira Ticket Bot,Free tool to ensure Jira Ticket Links are commented on Pull Requests,project-management,https://github.com/marketplace/jira-ticket-bot,2025-10-22T05:45:07.073199
+Gitinerary,Tracks your team progress by using Git history,project-management,https://github.com/marketplace/gitinerary,2025-10-22T05:45:07.246048
+ReportBugz,Get issues reported by team members from ReportBugz to GitHub Issues,project-management,https://github.com/marketplace/reportbugz,2025-10-22T05:45:07.414891
+Analytics & Insights tool,"Analyze commits, PRs, reviews, comments... with Gitlights! It redefines the analysis of Github activity powered by AI",project-management,https://github.com/marketplace/gitlights-analytics,2025-10-22T05:45:07.591299
+close-label,Applies a specific label to an issue closed through a pull request targeting the default branch in the same repository,project-management,https://github.com/marketplace/close-label,2025-10-22T05:45:07.764104
+Scribe Connect,Connects your codebase and wiki,project-management,https://github.com/marketplace/scribe-connect,2025-10-22T05:45:08.332444
+CloudSynth Inbox,"Be agile across all your tools with Inbox, brings all your team's favorite tools together into one easy to organize dashboard",project-management,https://github.com/marketplace/cloudsynth-inbox,2025-10-22T05:45:08.505629
+GoLinks,Reference human-readable short links to documentation and other resources in GitHub,project-management,https://github.com/marketplace/golinks,2025-10-22T05:45:08.683424
+Stackin App,Work together more efficiently,project-management,https://github.com/marketplace/stackin-app,2025-10-22T05:45:09.134852
+gitenvs.com,"gitenvs is a ""git"" tool to automatically maintain ""testing"" environment branches",project-management,https://github.com/marketplace/gitenvs-com,2025-10-22T05:45:11.064801
+Lazy Hand,"A complete developer friendly, fully functional sidekick for all your frequent pull request management actions",project-management,https://github.com/marketplace/lazy-hand,2025-10-22T05:45:11.415235
+Persona Features bot,bot to keep track of the features in a csv file,project-management,https://github.com/marketplace/persona-features-bot,2025-10-22T05:45:11.760325
+Makerflow,"Stay in the flow longer by managing your tasks & interruptions. Make their work more enjoyable, effective and efficient",project-management,https://github.com/marketplace/makerflow,2025-10-22T05:45:12.121527
+Avaza Project Management,"Avaza is an all-in-one platform for project management, time tracking and invoicing, designed to streamline business workflow",project-management,https://github.com/marketplace/avaza-project-management,2025-10-22T05:45:12.295212
+SnoozeThis,"SnoozeThis is a bot that holds on to your blocked issues, with support for different types of dependencies",project-management,https://github.com/marketplace/snoozethis,2025-10-22T05:45:12.421721
+"Ducalis.io: Prioritization, Estimation Poker, User Feedback",Ducalis.io,project-management,https://github.com/marketplace/ducalis-io-prioritization-estimation-poker-user-feedback,2025-10-22T05:45:12.594388
+KATA by DreamTeam,Automatically connects your GitHub activity to your KATA Projects and Teams,project-management,https://github.com/marketplace/kata-by-dreamteam,2025-10-22T05:45:12.877181
+ZeroTime for GitHub,Replicon's ZeroTime™ platform for GitHub,project-management,https://github.com/marketplace/time-intelligence-for-github,2025-10-22T05:45:12.991939
+Waitlyst,"Collect product feedback, engage customers and make data-driven decisions designed to help make your business successful",project-management,https://github.com/marketplace/waitlyst,2025-10-22T05:45:13.159401
+Issues for Help Scout,Track Github Issues directly from Help Scout,project-management,https://github.com/marketplace/issues-for-help-scout,2025-10-22T05:45:13.334142
+Code Notification,"This app fetches your repos, enables push event webhooks, sends email and Slack notifications, and integrates with other tool",project-management,https://github.com/marketplace/muzammilnewapp,2025-10-22T05:45:15.349039
+issue-assigner,A bot for managing issue assignments,project-management,https://github.com/marketplace/issue-assigner,2025-10-22T05:45:15.530948
+Sweetjab,"Sweetjab combines your issues and pull requests from GitHub™, into a single page, to easily prioritize and delegate",project-management,https://github.com/marketplace/sweetjab,2025-10-22T05:45:15.706808
+UbiquiBot,"A distributed team management system, designed for use with the Ubiquity DevPool",project-management,https://github.com/marketplace/ubiquibot,2025-10-22T05:45:15.884281
+Data Migration&Import,Migrates your projects and tasks from or to GitHub automatedly,project-management,https://github.com/marketplace/data-migration-import,2025-10-22T05:45:16.137074
+ONES.com + Github,Effortlessly track development progress with real-time code linking and shorten delivery time through automation,project-management,https://github.com/marketplace/ones-com-github,2025-10-22T05:45:16.793150
+Codo: TODO,Code your to-do list,project-management,https://github.com/marketplace/codo-todo,2025-10-22T05:45:17.327708
+Regov - Repo Management,Effortlessly manage your codebase at scale,project-management,https://github.com/marketplace/regov-repo-management,2025-10-22T05:45:18.229498
+new.space integration,See all the details for your pull requests and issues in your spaces,project-management,https://github.com/marketplace/new-space-integration,2025-10-22T05:45:20.250024
+Flyle Integration,"This GitHub Apps is an application designed to integrate GitHub Issue with Flyle, a product management tool",project-management,https://github.com/marketplace/flyle-integration,2025-10-22T05:45:21.350922
+git-greetings,A Basic Github App for Greetings. It gives stats on every opened Issues and PRs. It also manages the labels of the repo,project-management,https://github.com/marketplace/git-greetings,2025-10-22T05:45:21.519217
+EvolveDev.io,"Evolvedev tracks dev metrics & unlocks insights. Optimize workflows, boost efficiency. Free beta, No credit card",project-management,https://github.com/marketplace/evolvedev-io,2025-10-22T05:45:21.705421
+Doria Helpdesk,Ticketing system in Slack,project-management,https://github.com/marketplace/doria-helpdesk,2025-10-22T05:45:22.057740
+Commitments Bot,"Turn every commit into an announcement, sharing updates, milestones, and progress with your team or audience in real-time",project-management,https://github.com/marketplace/commitments-bot,2025-10-22T05:45:22.238250
+Monkedo,Monkedo is a no-code automation platform that connects over 400 apps to build powerful automation workflows,project-management,https://github.com/marketplace/monkedo,2025-10-22T05:45:22.409572
+Octo Tracker,Management tool to track spent hours per project,project-management,https://github.com/marketplace/octo-tracker,2025-10-22T05:45:22.703374
+Orwell app,"Quickly see how busy your team are, showing issues and PRs",project-management,https://github.com/marketplace/orwell-app,2025-10-22T05:45:24.745706
+Bartholomew Smith,Your butler for managing your GitHub repositories,project-management,https://github.com/marketplace/bartholomew-smith,2025-10-22T05:45:24.916006
+Graftr,Loads all your PRs pending to review as todos,project-management,https://github.com/marketplace/graftr,2025-10-22T05:45:25.264809
+KiteSuite,Master Your Projects with Our Innovative Project Management Software,project-management,https://github.com/marketplace/kitesuite,2025-10-22T05:45:25.428791
+Neatro Retrospectives,Neatro is the online Agile retrospective platform designed to help teams improve continuously,project-management,https://github.com/marketplace/neatro-retrospectives,2025-10-22T05:45:25.785716
+Feedbackchimp,Transform customer feedback into actionable GitHub Issues,project-management,https://github.com/marketplace/feedbackchimp,2025-10-22T05:45:25.954670
+GitBooster - Integrate Github + Jira,"Puts a mini Git graph right in Jira. Manage commits, tags, branches, and PRs directly from Jira",project-management,https://github.com/marketplace/gitbooster-integrate-github-jira,2025-10-22T05:45:26.134754
+My Lenio,MyLenio is an all-in-one platform that allows your Small Business to get organized properly. HR + IT + Compliance,project-management,https://github.com/marketplace/my-lenio,2025-10-22T05:45:26.479205
+vHub-iOS,Coding perspective visualized,project-management,https://github.com/marketplace/vhub-ios,2025-10-22T05:45:26.655236
+CodeSpread,pairs clients and their ideal developer: based on the buyer’s needs and the developer’s Github activity,project-management,https://github.com/marketplace/codespread-prod,2025-10-22T05:45:26.754255
+quickhunt-tool,Link roadmap items to GitHub issues for a seamless product workflow,project-management,https://github.com/marketplace/quickhunt-tool,2025-10-22T05:45:27.273054
+0pdd.com,Turns TODO puzzles in your source code into GitHub issues and monitors them,project-management,https://github.com/marketplace/0pdd-com,2025-10-22T05:45:27.417624
+Sync GitHub with Trello,Unito two-way Trello-GitHub integration. Sync issues with Trello cards and keep work information in sync across both tools,project-management,https://github.com/marketplace/trello-github-sync,2025-10-22T05:45:29.033550
+createstructure,createstructure is a service to make it easier and faster the setup for any IT project,project-management,https://github.com/marketplace/createstructure,2025-10-22T05:45:29.220877
+Mokuren chrome extension,It's time to stop filling up your browser tab with GitHub issues,project-management,https://github.com/marketplace/mokuren-chrome-extension,2025-10-22T05:45:29.410885
+Capacity Meter,Capacity meter for ByteClouds,project-management,https://github.com/marketplace/capacity-meter,2025-10-22T05:45:29.584256
+Sync GitHub with Wrike,Unito two-way Wrike-GitHub integration. Sync issues with Wrike tasks and keep work information in sync across both tools,project-management,https://github.com/marketplace/wrike-github-sync,2025-10-22T05:45:30.100588
+Sync GitHub with Asana,Unito two-way Asana-GitHub integration. Sync issues with Asana tasks and keep work information in sync across both tools,project-management,https://github.com/marketplace/asana-github-sync,2025-10-22T05:45:30.276470
+Agile Sprints,Get sprints reports based on your GitHub activity,project-management,https://github.com/marketplace/agile-sprints,2025-10-22T05:45:30.460988
+Productmotion Github,Integrate Productmotion with Github Projects to allow you to link features and synchronize data in a flexible manner,project-management,https://github.com/marketplace/productmotion-github,2025-10-22T05:45:30.647171
+Sync GitHub with Excel or Google Sheets,Automatically export/import data and keep information in sync across GitHub issues and spreadsheet records,project-management,https://github.com/marketplace/sync-with-google-sheets,2025-10-22T05:45:30.781529
+Sync GitHub to Google Calendar,Connect GitHub to Google Calendar in a two-way sync between events and issues to track project milestones in real-time,project-management,https://github.com/marketplace/sync-github-to-google-calendar,2025-10-22T05:45:30.922447
+Bugpilot,"Bugpilot automatically collects screenshots, screen recordings, steps to reproduce, and technical data",project-management,https://github.com/marketplace/bugpilot,2025-10-22T05:45:31.096676
+iPe.center,iPenix Operating System,project-management,https://github.com/marketplace/ipe-center,2025-10-22T05:45:31.272534
+ProManager : Best productivity tool,"ProManager is a powerful productivity tool designed to help developers, students, and individuals track their productivity",project-management,https://github.com/marketplace/promanager-best-productivity-tool,2025-10-22T05:45:31.624388
+Tegro a Build SDK,Easy integration to add and test code. Allows you to manage the project and make changes from the control panel,project-management,https://github.com/marketplace/tegro-a-build-sdk,2025-10-22T05:45:31.794571
+GitBook,Sync your markdown files and transform them into beautiful docs with one click,publishing,https://github.com/marketplace/gitbook-com,2025-10-22T05:45:33.736230
+utterances,A lightweight comments widget using GitHub issues,publishing,https://github.com/marketplace/utterances,2025-10-22T05:45:34.170351
+Pageclip,Save information from your website via forms or front-end JavaScript,publishing,https://github.com/marketplace/pageclip,2025-10-22T05:45:34.346212
+Pages CMS,"Open-Source CMS for Static Sites (Next.js, Astro, VuePress, Nuxt, Hugo, Jekyll, 11ty...)",publishing,https://github.com/marketplace/pages-cms,2025-10-22T05:45:34.524916
+HTML/CSS to Image,Generate images from code,publishing,https://github.com/marketplace/html-css-to-image,2025-10-22T05:45:34.704570
+Links for Confluence,Brings information from Github to Confluence from Atlassian,publishing,https://github.com/marketplace/links-for-confluence,2025-10-22T05:45:34.978472
+Plug in Git for Shopify,Two-way Shopify <> GitHub sync,publishing,https://github.com/marketplace/plug-in-git-for-shopify,2025-10-22T05:45:35.151460
+Priv Page,Private GitHub pages behind authentication,publishing,https://github.com/marketplace/priv-page,2025-10-22T05:45:35.452353
+Changelogg,"Automatic, effortless, no-code changelog for every release",publishing,https://github.com/marketplace/prclbot-automate-your-pull-requests-to-changelogs-generation-flow,2025-10-22T05:45:35.510505
+Stastic,Website editor on top of Github pages,publishing,https://github.com/marketplace/stastic-website-editor,2025-10-22T05:45:35.659234
+Crafter Marketplace,List your CrafterCMS Extensions on the Crafter Marketplace,publishing,https://github.com/marketplace/crafter-marketplace,2025-10-22T05:45:35.858036
+Truegit App,A Publishing Platform powered by Git,publishing,https://github.com/marketplace/truegit-app,2025-10-22T05:45:36.203694
+appbnr-bot,Enable your apps hosted in Appbnr accessing your content hosted in your GitHub repositories,publishing,https://github.com/marketplace/appbnr-bot,2025-10-22T05:45:38.755381
+Stamp,Automated release notes,publishing,https://github.com/marketplace/harvest-for-github,2025-10-22T05:45:38.984042
+vuegg,vuejs GUI generator - mockups and code in one go,recently-added,https://github.com/marketplace/vuegg,2025-10-22T05:45:43.445592
+Visual Source,Source Code History Visualization,reporting,https://github.com/marketplace/visual-source,2025-10-22T05:45:45.663103
+Qase TestOps,Qase.io is cloud test case management platform built for QA and Dev teams,reporting,https://github.com/marketplace/qase-testops,2025-10-22T05:45:46.771462
+ReportPortal.io - AI-powered test automation reporting,Open Source tool that uses Machine Learning to speed up the process to triage and determine why tests fail,reporting,https://github.com/marketplace/reportportal-io-ai-powered-test-automation-reporting,2025-10-22T05:45:47.073234
+Airbyte.io,Airbyte is the new open-source data integration platform that consolidates your data into your warehouses,reporting,https://github.com/marketplace/airbyte-io,2025-10-22T05:45:47.190286
+Public Repository Alerts,Get alert notifications when one of your organisation repositories becomes public,reporting,https://github.com/marketplace/public-repository-alerts,2025-10-22T05:45:50.939041
+Issues REST API Function,Want to automate GitHub issue creation? Use this app and get away with the burden of implementing GitHub authentication APIs,reporting,https://github.com/marketplace/issues-rest-api-function,2025-10-22T05:45:51.110222
+Report Builder,Get User and Organization Reports with GraphQL,reporting,https://github.com/marketplace/report-builder,2025-10-22T05:45:51.728725
+MultitudesCo,"Analytics and coaching to create happier, higher-performing teams",reporting,https://github.com/marketplace/multitudesco,2025-10-22T05:45:51.909159
+GitHub SmartBoard,Ultimate end-to-end and one-stop Dashboard for GitHub,reporting,https://github.com/marketplace/dsb-for-github,2025-10-22T05:45:52.079639
+iftrue.co,"iftrue leverages developer experience and DORA metrics to provide insights that enhance team productivity, engagement, and we",reporting,https://github.com/marketplace/iftrue-co,2025-10-22T05:45:52.263540
+Snitch-Bot,A GitHub App built with Probot that A Probot app and whatsapp-web.js which will send update about your repo in whatsapp,reporting,https://github.com/marketplace/snitch-bot,2025-10-22T05:45:52.434393
+SuperShields,Smart SVG status icons for your public or private Github repo,reporting,https://github.com/marketplace/supershields,2025-10-22T05:45:52.780929
+Stacksciences,Stacksciences is providing a SaaS platform to secure your cloud deployments,reporting,https://github.com/marketplace/stacksciences,2025-10-22T05:45:54.952799
+NotiFunction,Hosted Notification Microservices: create custom Slack notifications with buttons in minutes,reporting,https://github.com/marketplace/notifunction-hosted-notification-microservices,2025-10-22T05:45:55.296203
+Workflow Reporter,A GitHub app to report failed workflow job actions and notify PR creator with custom report messages for failed task,reporting,https://github.com/marketplace/workflow-reporter,2025-10-22T05:45:55.410619
+Disbug.io,Report and fix bugs remarkably faster by adding 10x clarity to bug reports,reporting,https://github.com/marketplace/disbug-io,2025-10-22T05:45:55.552833
+AudITech Integration,AudITech GitHub Integration App,reporting,https://github.com/marketplace/auditech-integration,2025-10-22T05:45:55.721777
+TechieRank.com,Check your GitHub (& Stack Overflow) rank & share a free verified credential of ranking & account ownership to your LinkedIn,reporting,https://github.com/marketplace/techierank-com,2025-10-22T05:45:55.888430
+Kahu.app,Kahu is a Supply Chain Security Service that reduces the time and effort needed to vet dependency installation and updates,reporting,https://github.com/marketplace/kahu-app,2025-10-22T05:45:57.049269
+Aspose Cloud for GitHub,Free app to filter and export GitHub issues to PDF document,reporting,https://github.com/marketplace/aspose-pdf-exporter,2025-10-22T05:45:57.631487
+prevent-public-repos-2025,Let's prevent organization public repos even in 2025 with a free plan,reporting,https://github.com/marketplace/prevent-public-repos-2025,2025-10-22T05:45:59.428363
+joyn.one,Translating product & engineering progress for customer-facing teams,reporting,https://github.com/marketplace/joyn-one,2025-10-22T05:45:59.546121
+Copilot License Monitor,Copilot GitHub License Monitoring with Auto-Saving,reporting,https://github.com/marketplace/copilot-license-monitor,2025-10-22T05:45:59.724138
+SourceTraq,SourceTraq provides detailed commit and PR analytics to help teams boost collaboration and optimize development workflows,reporting,https://github.com/marketplace/sourcetraq,2025-10-22T05:46:00.123470
+SuperBeings Connector,Connector to help monitor development metrics on SuperBeings dashboard,reporting,https://github.com/marketplace/superbeings-connector,2025-10-22T05:46:00.836341
+Fermionics,Track engineering team efficiency with DORA metrics. Get started in less than 2 minutes,reporting,https://github.com/marketplace/fermionics,2025-10-22T05:46:01.012192
+Portable Reputation (Test),Portable Reputation (Test),reporting,https://github.com/marketplace/portable-reputation-test,2025-10-22T05:46:01.362120
+HCP Vault Secrets,"Centralize secrets and access them when and where you need across development, Github Actions, and production environments",security,https://github.com/marketplace/hcp-vault-secrets,2025-10-22T05:46:06.132170
+StackHawk,Find and fix application security bugs before they hit production,security,https://github.com/marketplace/stackhawk,2025-10-22T05:46:06.303499
+BluBracket Community Edition,"BluBracket is like Clippy for code security, but—you know—not as annoying and a lot more effective",security,https://github.com/marketplace/blubracket-community-edition,2025-10-22T05:46:07.896237
+StepSecurity Actions Security,Stop CI/CD supply chain attacks,security,https://github.com/marketplace/harden-runner-app,2025-10-22T05:46:08.216254
+fuzzit.dev,Continuous Fuzzing for C/C++/Java/Golang/Rust & Swift integrated with your current CI/CD workflow,security,https://github.com/marketplace/fuzzit-dev,2025-10-22T05:46:09.007778
+iacbot,"Identify and fix IaC problems in your PRs (Terraform, CloudFormation Kubernetes, and Helm)",security,https://github.com/marketplace/iacbot,2025-10-22T05:46:09.353594
+Tenable Cloud Security,"Tenable's GitHub app brings you infrastructure-as-code (IaC) security, enabling your team to implement shift-left security",security,https://github.com/marketplace/ermetic,2025-10-22T05:46:09.527013
+ArmorCode App,AppSecOps Delivered - Your 10x AppSec Force Multiplier,security,https://github.com/marketplace/armorcode-app,2025-10-22T05:46:09.978134
+Pangea,The essential security features you need in API-based services that can be implemented easily with just a few lines of code,security,https://github.com/marketplace/pangea-cyber,2025-10-22T05:46:10.681771
+Intruder.io,The Intruder GitHub app lets you open GitHub issues for your security weaknesses,security,https://github.com/marketplace/intruder-io,2025-10-22T05:46:12.451741
+Access Tokens for GitHub Actions,This App create access tokens on behalf of a GitHub Actions,security,https://github.com/marketplace/access-manager-for-github-actions,2025-10-22T05:46:13.201016
+Panoptica GitHub,"Scan IaC in your repository to detect security issues, prioritize risks, and prevent risky configurations before deployment",security,https://github.com/marketplace/panoptica-github,2025-10-22T05:46:14.142871
+Automate Repo Permissions,Automate repository permissions for Teams in GitHub for 100's of repositories in one go,security,https://github.com/marketplace/automate-repo-permissions,2025-10-22T05:46:17.673913
+GitPermit,Git read permissions for subfolders,security,https://github.com/marketplace/gitpermit,2025-10-22T05:46:18.297262
+Kusari Inspector,Supply chain security checks right in your PRs,security,https://github.com/marketplace/kusari-inspector,2025-10-22T05:46:18.828218
+SAML.to,Developer Friendly AWS Role Assumption,security,https://github.com/marketplace/saml-to,2025-10-22T05:46:20.035785
+Rezonate Identity Security,GitHub integration provides real-time protection for your GitHub organization,security,https://github.com/marketplace/rezonate-connector,2025-10-22T05:46:21.596229
+Paraxial.io,Detect security problems in your code. Get actionable security feedback and prevent new vulnerabilities,security,https://github.com/marketplace/paraxial-io,2025-10-22T05:46:21.777812
+Chainguard Enforce,Signature and Policy Enforcement for GitHub Repositories,security,https://github.com/marketplace/chainguard-enforce,2025-10-22T05:46:21.953758
+HackerOne for GitHub,"HackerOne streamlines workflow between security & development to speed response, track GitHub issues & remediate faster",security,https://github.com/marketplace/hackerone-for-github,2025-10-22T05:46:22.778417
+Runtime Verification Inc.,Software Verification Audit and CI Integrated Cloud-Based Symbolic Execution Tooling,security,https://github.com/marketplace/kaas-compute-storage,2025-10-22T05:46:23.147681
+Cloud Authenticator,Cloud Authenticator: 2FA | Password | Payments | Notes,security,https://github.com/marketplace/cloud-authenticator,2025-10-22T05:46:24.380133
+Vulnerabilities.io,Vulnerability identification and management in one place,security,https://github.com/marketplace/vulnerabilities-io,2025-10-22T05:46:26.142566
+TrustInSoft CI,Advanced C & C++ static analysis to detect and troubleshoot the most subtle issues in your source code,security,https://github.com/marketplace/trustinsoft-ci,2025-10-22T05:46:26.262941
+Xygeni Sensor,Xygeni Sensor monitors user actions in GitHub to identify unusual behavior,security,https://github.com/marketplace/xygeni-sensor,2025-10-22T05:46:26.985437
+Scuba Log Collector,Scuba log collection app for integrating git hub logs into Microsoft security products,security,https://github.com/marketplace/scuba-log-collector,2025-10-22T05:46:27.994530
+Ostorlab Security Scanner,"Automated security scanning with AI-powered fixes, view and fix vulnerabilities directly in your workflow",security,https://github.com/marketplace/ostorlab-security-scanner,2025-10-22T05:46:28.165509
+LinuxPatch.com,"Linux Patch Management: One-click updates, AI-powered CVE reports, autopilot, server grouping, and health checks",security,https://github.com/marketplace/linuxpatch-com,2025-10-22T05:46:29.243713
+SGNL for GitHub,Control access to and actions in GitHub with context-based and CAEP-informed policies,security,https://github.com/marketplace/sgnl-for-github,2025-10-22T05:46:31.576161
+Kapspire,Welcome to the official Kapspire Github app page! Make sure to support us with a follow on everything! https://kaps.ml/media,security,https://github.com/marketplace/kapspire,2025-10-22T05:46:32.710162
+RZ-SEC (Legacy),deprecated version,security,https://github.com/marketplace/rezonate-identity-security,2025-10-22T05:46:32.842121
+Issue Embed,Collect bugs and feedback directly from your website's visitors straight into your repository's Github Issues,support,https://github.com/marketplace/issue-embed,2025-10-22T05:46:35.362584
+Templater,Ensure PR & Issue Templates are followed,support,https://github.com/marketplace/templater,2025-10-22T05:46:35.855344
+Sticky Scanner,This app extracts text from sticky images and registers it as issues on GitHub,support,https://github.com/marketplace/sticky-scanner,2025-10-22T05:46:36.399519
+Scitor - CustomerOps,"Collaborate with your clients using GitHub Discussions, bringing customer support close to your development",support,https://github.com/marketplace/scitor-customerops,2025-10-22T05:46:37.694672
+SupportBee,Create Github issues from customer support emails in SupportBee,support,https://github.com/marketplace/supportbee,2025-10-22T05:46:39.726262
+OctoPaji - GitHub Bot,"This bot looks for similar issue/PR, labels & assigns maintainer and posts GIF from Tenor API",support,https://github.com/marketplace/octopaji,2025-10-22T05:46:40.096123
+Get Documentation,Beautiful documentation for free. Hosted on Github in markdown,support,https://github.com/marketplace/get-documentation,2025-10-22T05:46:41.483474
+Run actions from comment,Allows to trigger specific action via comment,testing,https://github.com/marketplace/run-actions-from-comment,2025-10-22T05:46:50.740228
+CUE Unity,A regression and performance testing framework which tests CUE releases against a large corpus of code,testing,https://github.com/marketplace/cue-unity,2025-10-22T05:46:52.148188
+XUnit Reporter,A GitHub app to process XUnit reports,testing,https://github.com/marketplace/xunit-reporter,2025-10-22T05:46:52.870959
+Deeptest for GitHub,End to end automated visual regression testing,testing,https://github.com/marketplace/deeptest-for-github,2025-10-22T05:46:56.249755
+Gaffer.sh,Simple Test Report Hosting,testing,https://github.com/marketplace/gaffer-sh,2025-10-22T05:46:56.613496
+Creating GitHub branches from Jira,Create and view GitHub branches directly from a Jira issue,utilities,https://github.com/marketplace/creating-github-branches-from-jira,2025-10-22T05:47:09.354410
+Create Issue Branch,Bot that creates an issue branch after assigning an issue,utilities,https://github.com/marketplace/create-issue-branch,2025-10-22T05:47:11.275139
+kodiak,automate your pull request workflow,utilities,https://github.com/marketplace/kodiakhq,2025-10-22T05:47:15.124178
+ApiFlash,Simple and powerful website screenshot API based on Google Chrome and AWS Lambda,utilities,https://github.com/marketplace/apiflash,2025-10-22T05:47:15.540759
+repo rules,"ensure that all repositories have the same settings, e.g. visibility, squash delete, gpg branch protection, team permissions",utilities,https://github.com/marketplace/repo-rules,2025-10-22T05:47:22.171128
+GitLatch,"GitLatch lets you source control your Office .docx, .xlsx and .pptx files with GitHub",utilities,https://github.com/marketplace/gitlatch,2025-10-22T05:47:24.652849
+devmarks.io,Bookmarking for Developers: Automatically sync all your developer resources to one place,utilities,https://github.com/marketplace/devmarks-io,2025-10-22T05:47:31.883396
+Merge when green,Automatically merge pull requests when all tests have passed,utilities,https://github.com/marketplace/merge-when-green,2025-10-22T05:47:32.222286
+GitToDo App,A responsive Kanban board for managing to-do items written in TODO.md on GitHub,utilities,https://github.com/marketplace/gittodo-app,2025-10-22T05:47:33.437054
+Auto Branch,Create branch from issue automatically,utilities,https://github.com/marketplace/auto-branch,2025-10-22T05:47:35.601181
+Webhook Actions,Transforms your organization's webhook events into streamlined repository dispatches,utilities,https://github.com/marketplace/webhook-actions,2025-10-22T05:47:35.967155
+Docamatic PDF API,Generate PDFs and images from HTML or templates,utilities,https://github.com/marketplace/docamatic,2025-10-22T05:47:40.574413
+PowerShell for GitHub,PowerShell for GitHub,utilities,https://github.com/marketplace/powershell-module-for-github,2025-10-22T05:47:41.339209
+Slash Command,Slash Commands for GitHub,utilities,https://github.com/marketplace/slash-command,2025-10-22T05:47:41.516760
+PR Label Enforcer,"If config file provided, this app prevents PRs from getting merged if it doesn't contain certain labels",utilities,https://github.com/marketplace/pr-label-enforcer,2025-10-22T05:47:42.427783
+New Relic Observability,"Simplify user and team onboarding, role management, and entity ownership mapping in New Relic with this integration",utilities,https://github.com/marketplace/new-relic-observability,2025-10-22T05:47:45.823471
+Autoprovision GitHub Resources,Automate the creation or updation of GitHub resources with just a few input values,utilities,https://github.com/marketplace/autoprovision-github-resources,2025-10-22T05:47:50.936921
+FeatureNinjas,The only app to serve feature flags from your GitHub repositories,utilities,https://github.com/marketplace/featureninjas,2025-10-22T05:47:53.602278
+Pre-flight,Automatically create enforceable to-do lists for every pull request based on your commit messages,utilities,https://github.com/marketplace/pre-flight,2025-10-22T05:47:54.042614
+sshpiper,ssh with your github identity,utilities,https://github.com/marketplace/sshpiper,2025-10-22T05:47:55.189745
+D Comments,Add a comments section to your website using github discussions,utilities,https://github.com/marketplace/d-comments,2025-10-22T05:47:56.036070
+SigTech GitHub Integration,Git functionality and GitHub integration for SigTech workspaces,utilities,https://github.com/marketplace/sigtech-github-integration,2025-10-22T05:47:59.642477
+Alfinet TV,Alfinet TV Pro,utilities,https://github.com/marketplace/alfinet-tv,2025-10-22T05:48:00.958110
+Save App Token to Secrets,"Auto save or update the app's installation token into secrets of current repo, then use it as GITHUB_TOKEN in your workflows",utilities,https://github.com/marketplace/save-app-token-to-secrets,2025-10-22T05:48:04.356410
+Zelt for Github,Zelt is the first online back-office platform designed for the modern company,utilities,https://github.com/marketplace/zelt-for-github,2025-10-22T05:48:08.253470
+GoSearch App,Search all your GitHub knowledge in one place,utilities,https://github.com/marketplace/gosearch-app,2025-10-22T05:48:09.839116
+MapDiffBot-DMM,"Generates DMM files showing the changes in a map via Checks API, in a convenient format with easily locatable changes",utilities,https://github.com/marketplace/mapdiffbot-dmm,2025-10-22T05:48:13.109402
+webhook2 - GitHub events to Slack,Convert Github events to Slack messages,utilities,https://github.com/marketplace/webhook2-github-events-to-slack,2025-10-22T05:48:14.622416
+GitFleet App,"Automate any task on Github. Simple, mega-flexible and super-fast",utilities,https://github.com/marketplace/gitfleet-app,2025-10-22T05:48:18.090929
+cloud-concierge,App that allows the cloud-concierge container to open Pull Requests in a particular repository,utilities,https://github.com/marketplace/cloud-concierge,2025-10-22T05:48:19.056394
+COSMO Alpaca,A modern implementation toolset for Microsoft Dynamics 365 Business Central,utilities,https://github.com/marketplace/cosmo-alpaca,2025-10-22T05:48:29.846981
+The Geoffrey,Turn Code Comments into Chores,utilities,https://github.com/marketplace/the-geoffrey,2025-10-22T05:48:30.399454
+Contribeautiful,Draw and generate your own GitHub contribution history graph,utilities,https://github.com/marketplace/contribeautiful,2025-10-22T05:48:30.813266
+gg CLI,gg is Git with less typing,utilities,https://github.com/marketplace/gg-cli,2025-10-22T05:48:32.317302
+Statussync App,Sync with Third-party Services,utilities,https://github.com/marketplace/statussync-app,2025-10-22T05:48:32.833058
+Extra Tools for GitHub,GitHub tools that are not part of the main GitHub interface like transferring repositories in bulk,utilities,https://github.com/marketplace/extra-tools-for-github,2025-10-22T05:48:32.903145
+Zapounty,notify the community about any Zap rewards related to GitHub issues,utilities,https://github.com/marketplace/zapounty,2025-10-22T05:48:34.686751
+Code Clips,Manage and share reusable code,utilities,https://github.com/marketplace/code-clips,2025-10-22T05:48:36.860934
+GHWeekly,Display weekly Github activities,utilities,https://github.com/marketplace/ghweekly,2025-10-22T05:48:38.704910
+Simeon Cloud Development,Used for Simeon Cloud development,utilities,https://github.com/marketplace/simeon-cloud-development,2025-10-22T05:48:40.760097
+Change Default Branch,"Change your default branch from master to something better, in bulk",Uncategorized,https://github.com/marketplace/change-default-branch,2025-10-22T05:52:40.881569
