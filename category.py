@@ -38,3 +38,4 @@ if __name__ == "__main__":
         print(f"\n✅ Successfully extracted {len(categories)} categories:")
         for i, category in enumerate(categories):
             print(f"  {i+1}. {category}")
+
